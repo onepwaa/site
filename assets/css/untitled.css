@@ -1,0 +1,53 @@
+.text-uppercase {
+  text-transform: none !important;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
+  color: #fff!important;
+  background-color: transparent;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
+  font-size: .9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
+  font-size: .9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff !important;
+}
+
+.no-gutters > .col, .no-gutters > [class*=col-] {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+header.masthead {
+  padding-top: 0rem;
+  padding-bottom: calc(10rem - 56px);
+  background-position: 50%;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 700px) {
+  #partner-logo {
+    width: 120% !important;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .service-box {
+    max-width: 100%!important;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .col-md-6 {
+    width: 16.5% !important;
+  }
+}
+
