@@ -8,7 +8,7 @@ title: Science | Carving Ourselves a Home Among the Stars
 In this deep dive, we’ll take a look at our various ventures into unknown territory. We discover what it means to be curious about concepts in science that are indefinite. We discover things about outer space.
 
 ##### Relevant Terms
-<br>
+
 ###### **Outer Space Treaty:**
 <br>
 The Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies, alternatively known by its shorter name, the Outer Space Treaty, is a 1967 treaty regarded as the foundational agreement for international space law.
