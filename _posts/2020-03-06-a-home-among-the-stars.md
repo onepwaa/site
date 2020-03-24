@@ -9,24 +9,27 @@ In this deep dive, we’ll take a look at our various ventures into unknown terr
 
 ### Relevant Terms 
 
-----
+#### Outer Space Treaty:
 
-###### Outer Space Treaty:
 
 The Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies, alternatively known by its shorter name, the Outer Space Treaty, is a 1967 treaty regarded as the foundational agreement for international space law.
 
 [The Treaty stipulates](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html), among other provisions, that:
 
 1. celestial bodies are open to exploration and scientific research by all countries, on condition that such actions have “peaceful purposes” (Art. I, IV). 
+
 2. the act of countries claiming jurisdiction over celestial bodies, as well as launching into orbit weapons of mass destruction or devices carrying nuclear weaponry, shall not be allowed (Art II, IV).
+
 3. countries should promote the spirit of international cooperation in matters of common interest, and in assisting astronauts in distress.
+
 4. individual countries have ownership of the devices they launched into space, and are responsible for compensation should those devices cause destruction in outer space.
 
 [Prior to the signing of the Treaty](https://2009-2017.state.gov/t/isn/5181.htm), in 1965-6, the US and USSR both submitted drafts for the agreement. The former paid specific attention to governance of celestial bodies, while the latter was concerned about the whole outer space environment. With the merging work completed by the Legal Subcommittee of the UN Committee on the Peaceful Use of Outer Space (COPUOS), in December 1956, the completed treaty was presented before the UN as Resolution 2222 (XXI). It came into force after nine months of opening for signatures in three cities, Washington D.C., Moscow, and London. To date, over 100 countries and territories have signed this Treaty.
 
 In its 50-year existence, the Treaty has inspired multiple follow-up treaties and conventions. However, with the monumental developments in space technology, the rise of private space exploration companies, and the relative flexibility of the provisions, reservations are being voiced about the Treaty’s adaptability to our current times. Read more: the challenges that confront the Treaty.
 
-###### MarsOne:
+#### MarsOne:
+
 
 MarsOne was a private Dutch company (founded in 2011) that received money from investors claiming that it would be used to land the first humans on Mars and leave them there to establish a permanent human colony. However, MarsOne is now known as a ‘scam’ in the media.
 
