@@ -7,73 +7,49 @@ title: Jekyll Boilerplate
 
 {% include standard-navbar.html %}
 
-<h1>{{ page.title }}</h1>
+{% for post in site.posts %}
 
-<header class="masthead text-center text-white d-flex" style="background-image:url('assets/img/fullsize/88225255_10111594243599681_3889394766894333952_o.jpg');">
-    <div class="container my-auto" style="margin-top: 100px !important;">
-        <div class="row">
-            <div class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start" style="margin-left: 0px !important;"><h1 class="text-uppercase" id ="this-is" style="font-family: Montserrat, sans-serif; text-align: left; font-size: 10vh">
+    <section class="text-dark bg-white" id="about" style="padding: 64px 0px;">
+        <div class="container" style="margin-top: 30px;">
+            <div class="row no-gutters popup-gallery">
 
-<style>@media only screen and (max-width: 700px) {
-#this-is {
-font-size: 8vh!important
-}
-}
-</style>
+                <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;padding-top: 10px;">
+                    
+                <a class="portfolio-box" href="assets/img/fullsize/1.jpg">
+                    
+                <img class="img-fluid" src="assets/img/copy-of-deepdives-science_1.jpg">
+                
+                    <div class="portfolio-box-caption" style="background-color: rgba(35,33,32,0.9);">
+                    
+                        <div class="portfolio-box-caption-content">
+                    
+                            <div class="project-category text-faded">
+                    
+                                <span>DEEP DIVE</span>
+            
+                            </div>
+                
+                            <div class="project-name">
+                    
+                                <span>Carving Ourselves a Home Among the Stars</span>
+            
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-this is <br><strong> OnePwaa</strong> 
-
-
-</div>
-        </div>
-        <div class="row">
-            <div class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start" style="margin-left: 5px !important;"><h4 class="text-uppercase" style="font-family: Montserrat, sans-serif; text-align: left; font-size: 20px"> The sound many happy alpacas make together. <br> Your resource for all things WSC. </h4>
-
-
-
-                <hr>
+                </a>
+            
             </div>
+            
         </div>
-    </div>
-</header>
-<section class="text-dark bg-white" id="about" style="padding: 64px 0px;">
-    <div class="container">
-        <div class="row">
-            <div class="col offset-lg-8 mx-auto text-center">
-                <h2 class="text-dark section-heading">Featured Posts</h2>
-                <hr class="dark my-4" style="margin-bottom: 50px !important;color: rgb(0,0,0);">
-            </div>
+            
         </div>
-        <div class="row no-gutters popup-gallery">
-            <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;"><a class="portfolio-box" href="assets/img/fullsize/1.jpg"><img class="img-fluid" src="assets/img/copy-of-deepdives-science_1.jpg"><div class="portfolio-box-caption" style="background-color: rgba(35,33,32,0.9);"><div class="portfolio-box-caption-content"><div class="project-category text-faded"><span>DEEP DIVE</span></div><div class="project-name"><span>Carving Ourselves a Home Among the Stars</span></div></div></div></a></div>
-            <div
-                class="col-sm-6 col-lg-4" style="padding-bottom: 10px;"><a class="portfolio-box" href="assets/img/fullsize/2.jpg"><img class="img-fluid" src="assets/img/fullsize/copy-of-1p-a-world-on-the-margins-a-review-and-looking-forward_1.png"><div class="portfolio-box-caption" style="background-color: rgba(35,33,32,0.9);"><div class="portfolio-box-caption-content"><div class="project-category text-faded"><span>DEEP DIVE</span></div><div class="project-name"><span>A Review of 2019</span></div></div></div></a></div>
-        <div
-            class="col-sm-6 col-lg-4" style="padding-bottom: 10px;"><a class="portfolio-box" href="assets/img/fullsize/3.jpg"><img class="img-fluid" src="assets/img/1p-2020-team-welcome_1.jpg"><div class="portfolio-box-caption" style="background-color: rgba(35,33,32,0.9);"><div class="portfolio-box-caption-content"><div class="project-category text-faded"><span><strong>announcements</strong></span></div><div class="project-name"><span>New Team for 2020</span></div></div></div></a></div>
-    </div>
-    </div>
-</section>
-<div class="container" style="margin-bottom: 100px;">
-    <div class="row">
-        <div class="col-md-6 col-lg-3 col-xl-2 text-center" style="width: 100%;">
-            <div class="mx-auto service-box mt-5"><img id="partner-logo" src="assets/img/onepwaa_13%20(1).png" style="width: 100%;"></div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xl-2 text-center">
-            <div class="mx-auto service-box mt-5"><img id="partner-logo" src="assets/img/wsclub_15.png" style="width: 100%;"></div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xl-2 text-center" style="width: 100%;">
-            <div class="mx-auto service-box mt-5"><img id="partner-logo" src="assets/img/asa_13.png" style="width: 100%;"></div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xl-2 text-center">
-            <div class="mx-auto service-box mt-5"><img id="partner-logo" src="assets/img/pica_14.png" style="width: 100%;"></div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xl-2 text-center">
-            <div class="mx-auto service-box mt-5"><img id="partner-logo" src="assets/img/wsc-moments_13.png" style="width: 100%;"></div>
-        </div>
-        <div class="col-md-6 col-lg-3 col-xl-2 text-center" style="width: 100%;">
-            <div class="mx-auto service-box mt-5"><img id="partner-logo" src="assets/img/wsc-memes_13.png" style="width: 100%;"></div>
-        </div>
-    </div>
-</div>
+    </section>
+
+    {{ post.date | date: "%B %e, %Y" }}
+    <a href="{{ post.url }}">{{ post.title }}</a>
+
+{% endfor %}
 
 {% include footer.html %}
