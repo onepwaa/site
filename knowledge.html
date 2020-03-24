@@ -14,6 +14,8 @@ title: Jekyll Boilerplate
             <div class="row no-gutters popup-gallery">
                 {% for post in site.posts %}
 
+                {% if post.topic == "knowledge" %}
+
                 <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;padding-top: 10px;">
 
                     
@@ -44,6 +46,8 @@ title: Jekyll Boilerplate
                     
 
                 </div>
+
+                {% endif %}
                 {% endfor %}
                 
             
