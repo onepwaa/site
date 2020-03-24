@@ -2,7 +2,7 @@
 layout: post
 title: How to Write When You're Out of Time
 image: /assets/img/3-ways_1_orig.jpg
-topic: knowledge
+topic: strategy
 ---
 
 ### Non-stop: How to Write When You're Out of Time | Tracy Huang
