@@ -8,7 +8,8 @@ title: Science | Carving Ourselves a Home Among the Stars
 In this deep dive, we’ll take a look at our various ventures into unknown territory. We discover what it means to be curious about concepts in science that are indefinite. We discover things about outer space.
 
 ### Relevant Terms
-###### ** Outer Space Treaty: **
+
+###### **Outer Space Treaty:**
 <br>
 The Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies, alternatively known by its shorter name, the Outer Space Treaty, is a 1967 treaty regarded as the foundational agreement for international space law.
 
@@ -26,7 +27,8 @@ The Treaty on Principles Governing the Activities of States in the Exploration a
 
 In its 50-year existence, the Treaty has inspired multiple follow-up treaties and conventions. However, with the monumental developments in space technology, the rise of private space exploration companies, and the relative flexibility of the provisions, reservations are being voiced about the Treaty’s adaptability to our current times. Read more: the challenges that confront the Treaty.
 <br>
-###### ** MarsOne:  **
+
+###### **MarsOne:**
 <br>
 MarsOne was a private Dutch company (founded in 2011) that received money from investors claiming that it would be used to land the first humans on Mars and leave them there to establish a permanent human colony. However, MarsOne is now known as a ‘scam’ in the media.
 
@@ -38,7 +40,8 @@ Why was it a ‘scam’? In order for ‘contestants’ to get to the next round
 Within the settlement are inflatable components which contain bedrooms, working areas, a living room and a 'plant production unit', where they will grow greenery. They will also be able to shower as normal, prepare fresh food (that they themselves grew and harvested) in the kitchen, wear regular clothes, and, in essence, lead typical day-to-day lives.” - MarsOne
 However, on the 15th of January (2019), a court decision was settled - they would liquidate the organisation, bankrupting it in the process.
 <br>
-###### ** Lagrange Point: **
+
+###### **Lagrange Point:**
 <br>
 A Lagrange point, named after Joseph Louis Lagrange, a mathematician who wrote about them in a 1772 paper, is also known as a libration point. It is a point in space where the gravitational forces of two large bodies combined, equal the centrifugal force felt by a much smaller third body, for example the earth and the moon or the sun or the earth. This interaction of forces results in a point of equilibrium where spacecrafts can be parked to make observations. 
 
@@ -46,23 +49,27 @@ There are always 5 Lagrange points over a large celestial object like a planet o
 
 Benefits of a spacecraft being placed in the Lagrange point include: asteroid spacecrafts would be more sensitive to the tiny infrared signals from the asteroids, it wouldn’t need coolant to stay cool, and it could point over a wide range of directions. 
 <br>
-###### ** Biocentrism: **
+
+###### **Biocentrism:**
 <br>
 Advocated for by Robert Lanza, an American doctor, biocentrism is a theory that asserts that life (creatures) is central to reality, with life creating the universe. It gives all beings inherent value and calls for their protection. Buddha’s injunction “one should not kill a living being, nor cause it to be killed, nor should one incite another to kill” can be seen as a representation of this philosophy.
 <br>
-###### ** Planetary Protection:
+
+###### **Planetary Protection:**
 <br>
 Planetary protection is one of the guiding principles when designing an interplanetary mission. It’s goal is to prevent biological contamination between Earth and other celestial objects. There are two types of planetary protection: forward contamination and backwards contamination. Forward contamination is the contamination of other planets by organisms or organic materials from Earth, which is important to be able to study extraterrestrial life accurately. Backwards contamination is the opposite of this: the contamination of Earth by extraterrestrial life or bioactive molecules which could be potentially harmful to our planet.
 
 The idea of planetary protection was first put forward in 1958 by the U.S. National Academy of Scientists, who created the Committee on Contamination by Extraterrestrial Exploration (CETEX). In 1959, this was then transferred to the Committee on Space Research (COSPAR). In 1967, the United Nations also created the Outer Space Treaty, which includes the legal basis for planetary protection. This treaty has been signed and ratified by 104 nation states.
 <br>
-###### ** Artemis Project: **
+
+###### **Artemis Project:**
 <br>
 The Artemis Project is NASA’s unique venture in “space feminism”: NASA reinstates its commitment to “landing American astronauts, including the 1st woman and the next man, on the moon by 2024”. But that’s not all—the project also has a goal of establishing sustainable missions by 2028. And after we conquer the moon, Mars is next. Here’s how it’ll work: NASA will use its Space Launch System to send people to a spaceship known as the Orion. Astronauts on the Orion will then proceed to the gateway. This is a small spaceship that orbits the moon. It’ll function as their living quarters and research lab. It also lets them access the moon’s lunar surface with ease.
 
 Many people wonder whether travelling to the moon is even worth it anymore. Sure, Neil Armstrong’s been on the moon, but why would we do it again? Well, Artemis states that its goal is to demonstrate the capabilities of developed technologies. However, we can definitely consider this to be a political move. By sending an increased number of astronauts to the moon—especially a woman—America gets a lot of credit. It’s a major opportunity for them to expand their global presence. The moon is only the beginning. By learning to explore a celestial body, NASA opens up pathways to space colonization. 
 <br>
-###### ** Dyson Sphere: **
+
+###### **Dyson Sphere:**
 <br>
 A hypothetical megastructure to capture the energy of the Sun. Unlike many popular depictions, the Dyson Sphere is not a gigantic solid shell that will enclose the Sun- in fact, this arrangement is the most inefficient. An actual Dyson Sphere would look more like a Dyson swarm of satellites-  orbiting panels that will collect and refocus the Sun’s power to central collecting stations.
 
