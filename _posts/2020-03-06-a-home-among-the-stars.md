@@ -5,10 +5,8 @@ title: Science | Carving Ourselves a Home Among the Stars
 
 ​Humans have always been fascinated by the mysteries of outer space. Some like to think that we are in control of everything—that we were born on this habitable planet for a reason, a purpose. Others believe that Earth is nothing more than a pale, blue dot. It is minuscule and we are not as significant as we think we are. Earth is but a speck of dust. It plays a small role in the grand scheme of things. The more we discover, the more we believe that this is true. Our universe is vast and wide. This means that lots of exploring is yet to be done. 
 
-In this deep dive, we’ll take a look at our various ventures into unknown territory. We discover what it means to be curious about concepts in science that are indefinite. We discover things about outer space.
-
-##### Relevant Terms
-
+In this deep dive, we’ll take a look at our various ventures into unknown territory. We discover what it means to be curious about concepts in science that are indefinite. We discover things about outer space. Let's explore some relevant terms to this topic.
+<br>
 ###### **Outer Space Treaty:**
 <br>
 The Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies, alternatively known by its shorter name, the Outer Space Treaty, is a 1967 treaty regarded as the foundational agreement for international space law.
