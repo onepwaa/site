@@ -5,6 +5,8 @@ image: /assets/img/1p-howsc_orig.png
 topic: humans-of-wsc
 ---
 
+### HoWSC 15 | Maxine Magtoto
+
 The initial months of my living in Bangkok had me desperate to go back to the Philippines. It was a foreign country, I had no idea what was getting myself into, and I was overall uncomfortable with the ever-present need to conform to a place I had no ties to. The same could be said of how I felt the time I entered the World Scholar’s Cup. It was foreign, I was clueless, and I was worried about whether or not I would do well.
 ​
 These worries, however, were horribly misplaced. I’d come to leap bounds over what I’d always been frightened to step into. I was speaking in front of crowds, unleashing the thoughts that had never been able to surface- and I was doing all of this in the safest community I’d been in. Our school hosted the 2017 Bangkok Regionals, and I, a skeptical 8th grader, had no idea what I had just gotten myself into. There were people making bizarre animal noises and fawning over the many llama-adjacent stuffed toys standing up on stage; eagerly singing along as the then Director of Social Stuff ™ rallied them all under a premise so unlike what I thought had brought many of them to the competition to begin with. They were there because they enjoyed it, and soon enough, I'd found myself having just as much, if not even more, fun than I'd ever thought I'd be capable of having. Indeed: my very first WSC opening ceremony will forever be near and dear to my heart.
