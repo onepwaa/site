@@ -2,7 +2,7 @@
 layout: post
 title: Science | Carving Ourselves a Home Among the Stars
 image: /assets/img/copy-of-deepdives-science_1.jpg
-topic: knowledge
+topic: deep-dives
 ---
 
 ### Carving Ourselves a Home Among the Stars
