@@ -5,7 +5,7 @@ image: /assets/img/3-ways_1_orig.jpg
 topic: strategy
 ---
 
-### Non-stop: How to Write When You're Out of Time | Tracy Huang
+### Non-stop: How to Write When You're Out of Time
 
 ​Writing is a skill. Writing under pressure is an invaluable skill. Here are three strategies that will help you write an award-winning Scholar’s Cup essay.
 
