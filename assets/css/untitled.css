@@ -56,11 +56,11 @@ hr {
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
-  color: #e3e3e3 !important;
+  color: #fff !important;
 }
 
 a, a:hover {
-  color: #000000;
+  color: #e3e3e3;
 }
 
 .team-grid {
