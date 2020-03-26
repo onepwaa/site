@@ -5,6 +5,6 @@ image: assets/img/3.Social Studies Guide.jpg
 topic: study-guide
 ---
 
-<iframe src="https://www.scribd.com/document/424941710/1P-2019-Special-Area-Study-Guide#from_embed" width="640" height="480"></iframe>
+<iframe src="https://www.scribd.com/embeds/424941710/content?start_page=1&view_mode=scroll&access_key=key-iXk6YOntBvGMZryjDec4" width="640" height="480"></iframe>
 
 <br>
