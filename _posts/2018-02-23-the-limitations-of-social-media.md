@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Special Area​ | Valentine's Day Special 1
-image: /assets/img/5-valentines-special-3_orig.png
+image: assets/img/5-valentines-special-3_orig.png
 topic: deep-dives
 ---
 
