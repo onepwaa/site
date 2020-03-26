@@ -1,3 +1,4 @@
 # Static site output
 _site
 .DS_Store
+assets/.DS_Store

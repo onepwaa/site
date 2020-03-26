@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Special Area 2019 | Codexes to Mystify!
-image: /assets/img/1p-deep-dive-5_orig.jpg
+image: /assets/img/1p-deep-dive-3_2_orig.png
 topic: deep-dives
 ---
 
