@@ -1,164 +1,83 @@
 ---
 layout: post
 title: 2018 Special Area​ | Valentine's Day Special 1
-image: /assets/img/valentine/download.png
+image: assets/img/5-valentines-special-3_orig.png
 topic: deep-dives
 ---
 
-Hi scholars! This time, we decided to use a slightly different approach for our second curriculum deep dive! This is “Valentine” by Carol Ann Duffy and in this post, we're going to be looking at the discussion questions for this poem. This is a compilation of the opinions of some scholars in our community on the discussion questions. Enjoy!
+Social media has tremendously impacted the relationships we have today, especially the ones we make at WSC. Read some of the opinions of various scholars about this topic. Happy Valentine’s Day!
 
-****
-Valentine by Carol Ann Duffy
+***How has social media influenced your relationships?***
 
-Not a red rose or a satin heart.
+**Liz Beth:** It’s acted as both a positive and negative influence. It’s positive because I’ve been able to make new friends through it, and maintain relationships with people I’m not in proximity with anymore. It’s negative because sometimes I “can’t keep up” with having so many friends, and I end up neglecting some of them. My IRL communication skills seem to have dwindled, because oftentimes I can express myself passionately behind a screen, but will fail to ask a cashier or shop attendant for help LOL.
 
-I give you an onion.
-It is a moon wrapped in brown paper.
-It promises light
-like the careful undressing of love.
+**Victoria Sin:** I would say that social media has helped me connect with plenty of people - mostly friends and family. I don't see some of my family members very often, but social media has allowed me to be up to date on their lives. Moreover, I've met so many people through WSC, yet never get to meet most of them again. Social media has enabled me to keep in touch with them and get to know them better.
 
-Here. 
-It will blind you with tears 
-like a lover.
-It will make your reflection
-a wobbling photo of grief.
+**Terry:** Social media has made it easier to communicate with scholars from over the world.
 
-I am trying to be truthful.
+**Sarah Swea:** Directly: I've met some of my best friends through social media. We're tucked away in our little corners of the world, joined only by a group chat we spam with memes and complaints about our schools and "irl" lives in, and I think it's ridiculous and wonderful.
 
-Not a cute card or a kissogram.
+Indirectly: The formation of first impressions isn't just limited to someone's appearance anymore, it also involves scrolling through Facebook shares and shaking my head at the lack of personal content for me to stalk.
 
-I give you an onion.
-Its fierce kiss will stay on your lips,
-possessive and faithful
-as we are,
-for as long as we are.
+**Tanushri:** It hasn’t.
 
-Take it.
-Its platinum loops shrink to a wedding-ring,
-if you like.
+**Jack:** Connected me with people who live far away. The OnePwaa team is a great example.
 
-Lethal.
-Its scent will cling to your fingers,
-cling to your knife.
 ​
+***Does social media affect the way you perceive other people?***
 
-***Discussion: Is love really more an onion than a rose?***
+**Liz Beth:** Oftentimes, you can tell a lot about people through what they post on social media. However, other times, it’s definitely misleading. I have a friend (classmate) who is not in a relationship but is always reposting statuses about being in a happy relationship, or being cheated on. If you didn’t know her personally, you’d be dead confused, haha. If I’ve never met a person before, though, I will almost definitely base my perception of them solely on what they post or are tagged in, because I don’t really have any other way of getting an idea of who they are (especially when it comes to first impressions). Hey, it’s human nature to make *some* sort of judgment ¯\_(ツ)_/¯
 
-**Jackalyn So, Po Leung Kuk Choi Kai Yau School, Hong Kong (OnePwaa Director of Content)**
+**Victoria Sin:** Yes - what people post or follow on social media definitely changes our perceptions of them. It may not be who they are in real life, but we will make our judgements based upon their social media profile.
 
-It seems that Duffy used the metaphor of an onion because love makes you cry? Onions have a spicy taste and a strong, recognizable scent, indicating that love isn't always sweet but the sensation is strong and you will remember it.
+**Terry:** Social media tends to portray the better aspects of a person’s life.
 
-**Tan Jie Ying, Penang Chinese Girls' High School, Penang, Malaysia (OnePwaa Intern Scholar)**
+**Sarah Swea:** Consciously or not, definitely. We get to choose a persona to display online to our peers, and more often than not I've mistaken the map for the territory -- wink wink.
 
-I'd say an onion is a better metaphor for love, albeit a borderline pessimistic one. 
+**Tanushri:** Definitely.
 
-**Nadine Elizabeth Hilman, Mentari School, Jakarta, Indonesia**
+**Jack:** Sometimes. A lot of people put the best versions of themselves on Instagram - makeup, great lighting, great angles, a nice pose, you know? They can look all perfect and untouchable but in real life, I have to remind myself, they're probably a nice normal human like you or me.
 
-Hmm I agree with the author that an onion is a better symbol for love than a rose. When I think about that flower, the first things that come to my mind are words like care, affection and desire; all pleasant nouns. But love isn’t always as pleasant as the image of the heart presents it to be. 
+***How does the medium in which we communicate affect what we’re saying? Why do you choose one medium over another?***
 
-**Suzu Kitamura, Doshisha International School, Kyoto, Japan (OnePwaa Scholar)**
+**Liz Beth:** Take Snapchat vs. Email, for example. I’d use my Snapchat to send spontaneous, in-the-moment messages, with “little” thought to what I’m sharing. But if I were to compose an email, I’d sit down and think really hard about what I’m going to send, because I feel that there’s a certain level of formality I’ll have to attach to it, even if I’m writing to one of my best friends. I wouldn’t use email to explain in detail how amazing that ice cream sundae I had two minutes ago was; I don’t feel emails are meant for that. I’d use it to describe an entire day or period of time (like a four-day long vacation, a week, or a month) has been. But I’d use IMs or Snapchat — things in which I can receive an equally spontaneous reply — for little moments throughout my day. Also, I’d prefer face-to-face as a medium when communicating sensitive or important information. If that can’t do, I’d use a phone or video call.
 
-I will have to respectfully disagree with the author that an onion is a better metaphor for love than a rose. The rose is considered to be a symbol of beauty, however, its thorns possess the power to harm and to hurt. While love can also be beautiful, loving someone means giving them the power to hurt you. Not only does the rose serve as a metaphor for the two sides of love, but also the effort needed to maintain a loving relationship with someone. A rose requires nurturing, care, and attention in order to thrive, and the same can be said about love.
+**Victoria Sin:** I think that different mediums of communication have varying degrees of formality. Writing a letter and chatting through instant messaging is different as I can get a much quicker response through IMs - I could chat with someone halfway across the globe and get a real-time, quick response.
 
-The strongest of loving relationships last for an eternity: roses, even after a long time, can still be admired in the form of pressed or dried flowers. However, should two people cease to put effort into a relationship...it will wilt and die, eventually ending up at the bottom of a trash heap. 
+**Terry:** Texting, for example, can be less personal and lack emotions at times.
 
-**Lexi Prichard, Iona Presentation College, Perth, Australia (World Scholars Club)**
+**Sarah Swea:** I think apps like Snapchat are so popular because the chat isn't permanent unless it's saved and even so, if anyone wants to make a record of it, the other person will be notified. There's less brain to mouth -- or rather, keyboard? -- filter that way because you aren't as scared that what you're saying might be shown to an audience beyond the person you're actively conversing with. Also, IM apps are way more convenient than racking up phone bills or snail-mailing a RSVP to someone.
 
-Both roses and onions (and ogres) can be seen as whole entities, created by the culmination of layers- layers of varying substance, creating objects of varying cultural symbolism and meaning. The connection of roses to romance perhaps stems from the flower’s sweet smelling scent and botanically perfect exterior, cementing its place in our culture as the cliche floral motif of a perfect relationship. Yet we are also asked to consider the onion, a simple and versatile cooking staple that you’ll never find on a valentine’s day card. An onion is really ‘the ordinary’, a universal figure fulfilling the basic human need of nutrition. In this way, would it really be amiss to compare an onion to love? Is an onion not a symbol of the simplicity of love, of the human longing for fulfilment in the form of another? A rose is a projection of the perfect romance, yet an onion is something real and familiar, quite like what true love should be. I am not really enjoying romanticising my least favourite vegetable and falling down such a metaphorical rabbit hole, but the original question can be answered once we cease this relentless comparison and begin to pinpoint the ‘ordinary’ in our relationships, and the true nuances of the simplicity of loving.
+**Tanushri:** I believe that people tend to be bolder than they are in reality on the Internet. On the Internet, identity forgery is something common, thus removing fear of being caught in reality for their actions/words.
 
-**DK Savage, International Community School Amman, Jordan**
+**Jack:** Some make communication easier or minimize misunderstanding. Emojis are easy to misinterpret. Texting is too. Their message was short, do they hate me? You know, that kinda thing. I like Whatsapp because it's just texting, it's simple and quick. I don't prefer Snapchat because it's pointless and superficial. Also people use it to diss other people more than most other platforms cuz the pics disappear.
+ 
+***How would the WSC community be different if we did not rely on social media?***
 
-I love the deeper message behind the poem "Valentine" -- not just questioning the stereotypes of romance, but questioning the very meaning of love itself. The metaphor of an onion to describe love is powerful, showing the sorrow of love through the tears caused, the beauty of love in the gentle care of an onion, and the strength of love in the power of an onion's scent to remain for such a long time. The metaphor of an onion is beautiful, but I do not believe Carol Ann Duffy wrote this with an intention of buying an onion for her lover. Just saying.
+**Liz Beth:** Attending Globals would likely mean the only new friends you’d make there are people from your Scavenge team or your opponents in debates (in case you’re too shy to randomly strike up a conversation with someone sitting next to you during a meal or in the auditorium during an event); it somehow narrows the pool from which you can make new friends. Lack of social media in the WSC community would mean many people who are great friends now would never have known each other — because it seems to be common for a lot of people to have met online first, realised they had chemistry, and then meet for the first time in real life at a round. Meeting each other would have been an active process on the side of both parties involved; rarely would it be left to chance.
 
-**Victoria Sin, Po Leung Kuk Choi Kai Yau School, Hong Kong (OnePwaa Director of Knowledge)**
+**Victoria Sin:** I would say that the whole community would be much more detached - we wouldn't be able to bond or become closer friends. I really appreciate how social media has helped me bond with the WSC community :)
 
-An onion, in comparison to a rose, is a more realistic (and also more pessimistic) representation of love and romance. A rose is a very stereotypical metaphor for love, and I believe that Duffy’s point of view in this poem is very refreshing -- an onion has a strong and remarkable smell, much like love (it makes an impact.) An onion also has many layers for you to peel. You must take time and effort to slowly peel back the layers of the onion to see the deeper, more substantial layers. This is not unlike love and romance.
+**Terry:** There would be not opportunity to engage in the community outside of physical rounds, not to mention being able to team up with scholars from other countries.
 
-**Caden Li, Po Leung Kuk Choi Kai Yau School, Hong Kong (OnePwaa Blogger)**
+**Sarah Swea:** So, so very different. I think it'd be a lot smaller and a lot less entangled.
 
-Love can be fragile, frail like a rose. But the poet Carol Ann Duffy decides to compare love to an onion instead. She describes love as layered, one that needs undressing like an onion, whilst also paralleling its ability to make one tear up with the emotions evoked when in love. She even compares the strong scent of the onion to the passion and obsession within love, conveying that once you fall in love, you will often fail to pull yourself out. Although I believe that she makes fair comparison between the two ideas, what she fails to bring out of an onion that a rose can convey is the idea of pain in love. The thorns that are present on roses represent the imperfections in relationships. This signifies that even though love may involve struggles, its the flaws in the relationships that brings out its uniqueness, its own special kind of connection.
+**Tanushri:** I believe that the family-like bond of literal strangers from all over the world would not have been this tight.
 
-**Rishika Arora, Shalom Hills International School, Gurgaon, India**
+**Jack:** No way would all those messages get out there and allow people to connect. No way would we be able to make lasting memories, maintaining friendships with scholars we've just met.
 
-This poem dig deeps under the layers of all clichés associated with the holiday. Human love is more in sync with an onion than it is with conventional symbols such as roses, cards and hearts. The onion described as a moon, tells us about the transient nature of love itself— it appears by night but vanishes by day, and controls the tides of human emotions, just like the ups and downs in a relationship. The speaker here presents love in its raw form— it is complex, intricate, and in its true essence, unconventional. Life and reality can often upset a relationship, just like the stinging taste and smell of an onion dwells far after it has been cut and tears have been shed. Love is dangerous, and this poem may come across as an ultimate declaration of undying love, the callouses that people develop around its concept, the unconventionality of an emotion so strong, or simply the negatives that comprise a relationship and how often they need to be compromised. Is love, in its core, simply what stereotypes make it to be, or a feeling that in spite of its pain should be relished with the nutrition (like an onion) it provides us?
+***How did the internet help connect you and other members of the WSC Community?***
 
-*****
+**Liz Beth:** I have “met” several people — from staff to fellow Scholars — through social media, whom I’d have probably never met or heard of otherwise, and we’re friends (I hope HAHAH); we either got to know each through social media, or we met at a round and have kept up communication by means of it. Yay Facebook!
 
-***What metaphor would you choose instead of an onion, if you were challenged to write a similar poem of your own? [Note: a few of the scholars we asked chose to write poems of their own in response to the question. Enjoy!]***
+**Victoria Sin:** The internet has helped me stay in touch with so many friends who I've made in WSC and also make new friends with people who I've never actually seen before. I can't wait to meet everyone soon!
 
-**Jackalyn So, Po Leung Kuk Choi Kai Yau School, Hong Kong (OnePwaa Director of Content)**
+**Terry:** The Facebook group is an absolutely amazing opportunity to stay in touch with scholars as well as get meaningful content. WSC wouldn’t be the same without social media.
 
-I'd use a crayon as my metaphor; it's colorful like the memories we'll make, what we draw with it is up to us (this is the important part), the color or the crayon may change color according to the mood of our lives.
+**Sarah Swea:** My favourite stories from WSC are unlikely friendships, because it's a phenomenon so unique to this incredible community. I could send a Snap to this group of scholars from all regions of Asia right now if I wanted, or shoot an American scholar a message about the syllabus. Some of the friends I've made, I haven't ever met IRL, as the kids say, before. It's kind of surreal knowing there are so many invisible hands reaching through the screen and holding you whenever you feel like you're alone and helpless. Clichéd, but in all the best ways.
 
-**Tan Jie Ying, Penang Chinese Girls' High School, Penang, Malaysia (OnePwaa Intern Scholar)**
-
-Personally, the metaphor I'd use for love is food. If you're cooking for someone, you can't just randomly throw their favorite ingredients into a pot and hope for the best. Forcing your favourite stuff onto them or cooking something the way you want it is a red flag too. 
-
-Conversely, if you're the one eating, you can't just pass judgement on whether the cook is terrible based on your own preferences. Ideally, both cook and diner learn to work their way around each other's needs, adapt to the flaws of each other's chosen ingredients, and learn to like it even though there is nothing lovable about the entire process or the end product.
-
-Before you ask, I'm not hungry. I just grew up in a country where eating is the national pastime.
-
-**Emily Peng, SSIS, SIP Suzhou, China (OnePwaa Scholar)**
-
-I am a wilted flower and love is the rain. 
-I am a struggling addict and love is my cocaine.
-I am a passionate, steady burning fire, and love is my spark. 
-I am eternally blinded, and love is the dark.
-
-But, oh my darling, do not worry.
-
-Though love is painted with the weight of the world,
-Maybe, just maybe,
-Love is nothing more than 
-You and I.
-Two fireflies, shining,
-On a dark and endless night.
-
-We will fade.
-And when we fade, 
-Our dark existences will be submerged into the oblivion.
-We will fade.
-And when we fade,
-We will be left with nothing but the shadow of our light.
-
-But oh, my love, do not fear.
-
-
-Because even then,
-Love will still
-Be you and I.
-Two temporary pinpoints of light,
-Shining,
-On a endless, endless night.
-
-**Joshua Chien, SUIS Gubei, Shanghai, China**
-
-Love has been compared to everything from a jewel and a fevered dream to a snowmobile and an exploding cigar. And while some comparisons evoke a sense of rapture, others impart feelings of cynicism or despair.
-
-Love is a banana peel, made me slip but it made me feel.
-Love is a plant of the most tender kind, that shrinks and shakes to every sigh.
-Love is a truck and an open road, somewhere to start and somewhere to go
-Love is a kind of warfare, who it cuts down it does not care.
-Love is everything and anything, it can bring you pain or make you sing.
-
-**Mac Krongtham Kiatsupaibul, KIS International School, Bangkok, Thailand**
-
-Onions only represent love at one angle; that’s usually the sad one, and to simply describe it like that won’t be accurate. However, I would personally describe love to be like the flow of time. Time is unstoppable; time heals all wounds; time, or more specifically, the future, has variations. All these qualities simply represent love as a concept better. 
-
-**DK Savage, International Community School Amman, Jordan**
-
-I would say love is an ocean. You start a journey and the water's clear and calm and beautiful, and it's heaven. But as you continue and get past the shore, the waves soon become violent and you don't really know how to deal with it. You keep trying new things to stop yourself drowning, but the further you go through the ocean, the more violent the waves become, and the harder it is to get back to the gentle shore again. And, when you realise you want to go back, it's too late because you're lost in the middle of a violent ocean and all you can do is try to stay afloat.
-
-**Rishika Arora, Shalom Hills International High School, Gurgaon, India**
-
-For me, love is paper. It is fragile and is equally affected by the forces of nature— bring it too close to water and it wilts, bring a heart to close to uncertainty and it doubts. Burning paper leaves us with nothing but ashes just like breaking a heart takes out all of love’s marrow and leaves us with grief.
-
-Love is a blank canvas, ready to be etched on with the emotions of the people involved— and all the right colours can either mingle to create a masterpiece, or their abundance can leave us with a splatter of black paint. 
-
-It can be crumpled, tore apart and thrown away— but it can also be recycled, reused, and may blossom into something new.
-
-****
-
-And that's it for this post! we may be doing more similar posts in the future (compiling the opinions of different scholars). If you want to participate and share your opinions, feel free to send our Scholars team at OnePwaa a message!
+**Tanushri:** I was able to keep in touch with friends on the other side of the world instantly.
+​
+**Jack:** The Facebook group, mostly. The WSC website itself was also informative.
 
 <br>
