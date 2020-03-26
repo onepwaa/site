@@ -39,6 +39,10 @@ this is <br><strong> OnePwaa</strong>
         <div class="row no-gutters popup-gallery">
             {% for post in site.posts %}
 
+            {% if forloop.index <= 3 %}
+
+            
+
             
 
             <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;padding-top: 10px;">
@@ -72,7 +76,7 @@ this is <br><strong> OnePwaa</strong>
 
             </div>
 
-            
+            {% endif %}
             {% endfor %}
             
         
