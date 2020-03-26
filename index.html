@@ -47,19 +47,34 @@ this is <br><strong> OnePwaa</strong>
 
             
 
-            
+            <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;padding-top: 10px;">
 
-                <div class="col-md-4 col-lg-3 item">
-                    <div class="box" style="background-image:url({{ post.image }})">
-                        <div class="cover" style="padding-top: 100px;">
-                            <h3 class="name">{{ post.title }}</h3>
-                            <p class="title">{{ post.date | date: "%B %e, %Y" }}</p>
-                        </div>
-                    </div>
+                    
+                    
+                    
+                <a href="{{ post.url }}">
+                <img class="img-fluid" src="{{ post.image }}">
+
+                <center>
+
+                <div class="project-category" style = "padding-top: 15px;">
+                    
+                    <span>{{ post.date | date: "%B %e, %Y" }}</span>
+
+                </div>
+    
+                <div class="project-name" style = "padding-top: 10px;">
+        
+                    <span><strong>{{ post.title }}</strong></span>
+
                 </div>
                 
+                </center>
+                </a>
+                
+                
 
-            
+            </div>
 
             {% endif %}
             {% endfor %}
