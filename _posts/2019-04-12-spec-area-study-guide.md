@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2018 Social Studies | Study Guide
-image: assets/img/3.Social Studies Guide.jpg
+title: 2019 Special Area | Study Guide
+image: /assets/img/5.Special Area.jpg
 topic: study-guide
 ---
 
