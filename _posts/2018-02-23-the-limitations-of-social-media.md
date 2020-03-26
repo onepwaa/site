@@ -1,83 +1,109 @@
 ---
 layout: post
-title: 2018 Special Area​ | Valentine's Day Special 1
-image: assets/img/5-valentines-special-3_orig.png
+title: 2018 Special Area | The Limitations of Social Media
+image: /assets/img/6-limitations-of-social-media_1_orig.png
 topic: deep-dives
 ---
 
-Social media has tremendously impacted the relationships we have today, especially the ones we make at WSC. Read some of the opinions of various scholars about this topic. Happy Valentine’s Day!
+Who knew that Facebook only acts in their interests and not for the public good? Find out more in our fourth deep dive in the Limitations of Social Media!
 
-***How has social media influenced your relationships?***
+There are multiple factors that make different forms of social media obsolete to one another in some way. The following few are just some of the many factors that limit the efficiency of said mediums, hence you are encouraged to do some in depth research on your own so that you will be able to full grasp the intricacies of the topic discussed.
 
-**Liz Beth:** It’s acted as both a positive and negative influence. It’s positive because I’ve been able to make new friends through it, and maintain relationships with people I’m not in proximity with anymore. It’s negative because sometimes I “can’t keep up” with having so many friends, and I end up neglecting some of them. My IRL communication skills seem to have dwindled, because oftentimes I can express myself passionately behind a screen, but will fail to ask a cashier or shop attendant for help LOL.
+**Letter Writing:**
 
-**Victoria Sin:** I would say that social media has helped me connect with plenty of people - mostly friends and family. I don't see some of my family members very often, but social media has allowed me to be up to date on their lives. Moreover, I've met so many people through WSC, yet never get to meet most of them again. Social media has enabled me to keep in touch with them and get to know them better.
+- Arguably the least advanced and most obsolete form of social media to be applied in our globalized community
+  - Difficulties in maintaining secrecy:
+    - (Thought) Undeniably, hackers still exist as a threat to even the most secure emails sent via the internet, however, in contrast, transmission of data/information via physical means bears a significantly greater risk of having its contents exposed when we factor in confounding variables such as human error
+  - Time- consuming
+  - Lack of flexibility
+  - Red- Tapism ( explore )
 
-**Terry:** Social media has made it easier to communicate with scholars from over the world.
 
-**Sarah Swea:** Directly: I've met some of my best friends through social media. We're tucked away in our little corners of the world, joined only by a group chat we spam with memes and complaints about our schools and "irl" lives in, and I think it's ridiculous and wonderful.
+**E-mails:**
 
-Indirectly: The formation of first impressions isn't just limited to someone's appearance anymore, it also involves scrolling through Facebook shares and shaking my head at the lack of personal content for me to stalk.
+- One of, if not, the most prevalently used social medium when it comes to business-related agendas
+  - Phishing
+    - Sending and email whilst claiming to be from a legitimate company to extract personal information such as bank account numbers etc/
+  - Internet is required
+  - No guarantee that the email will be seen unless the user frequently accesses his/her account
 
-**Tanushri:** It hasn’t.
 
-**Jack:** Connected me with people who live far away. The OnePwaa team is a great example.
+**Facebook**
 
-​
-***Does social media affect the way you perceive other people?***
+- Ease of spreading hoaxes
+  - E.g. the Death of Rowan Atkinson, Dwayne the Rock Johnson’s Death, political related news
+- Limited sharing options
+  - Facebook does not allow the sharing of any articles, videos or photos outside of Facebook and hence greatly limits social interaction if it isn’t the go to social medium in a particular region
+- Explore:
+  - https://www.theatlantic.com/technology/archive/2018/01/facebook-doesnt-care/551684/
+  - https://www.linkedin.com/pulse/what-limitations-social-media-usage-facebook-twitter-instagram-kumar
 
-**Liz Beth:** Oftentimes, you can tell a lot about people through what they post on social media. However, other times, it’s definitely misleading. I have a friend (classmate) who is not in a relationship but is always reposting statuses about being in a happy relationship, or being cheated on. If you didn’t know her personally, you’d be dead confused, haha. If I’ve never met a person before, though, I will almost definitely base my perception of them solely on what they post or are tagged in, because I don’t really have any other way of getting an idea of who they are (especially when it comes to first impressions). Hey, it’s human nature to make *some* sort of judgment ¯\_(ツ)_/¯
 
-**Victoria Sin:** Yes - what people post or follow on social media definitely changes our perceptions of them. It may not be who they are in real life, but we will make our judgements based upon their social media profile.
+**Twitter**
 
-**Terry:** Social media tends to portray the better aspects of a person’s life.
+- Messaging inefficiency   
+  - Twitter only allows for a person to send one direct message at a time. As compared to other forms of social media, this method of messaging in obsolete and can be seen as a limitation on Twitters social capacity
+- Video posting is limited
+  - Only the link to the video can be uploaded, not the actual video, hence its ability to spread information is greatly reduced
+- Explore:   
+  - https://help.twitter.com/en/rules-and-policies/twitter-limits
 
-**Sarah Swea:** Consciously or not, definitely. We get to choose a persona to display online to our peers, and more often than not I've mistaken the map for the territory -- wink wink.
 
-**Tanushri:** Definitely.
+**Myspace**
+To understand its limitations, the best way to go about it is to understand the causes of Myspace’s failure as a social networking site, and why in 2008 it fell to the now-social-network heavyweight Facebook
 
-**Jack:** Sometimes. A lot of people put the best versions of themselves on Instagram - makeup, great lighting, great angles, a nice pose, you know? They can look all perfect and untouchable but in real life, I have to remind myself, they're probably a nice normal human like you or me.
+- Cluttering of services
+  - In its attempts to adapt a change in social networking needs and demands, Myspace made an attempt to make itself into an all-purpose site. However, this overambitious idea paired with improper and dysfunctional execution not only led the site to stray away from its core function, but also created a buggy and confusing interface for its users
+- Anonymous Friends vs Friend Friends
+  - Facebook’s system provided at the time a revolutionary innovation which was the ability to be friends with people you actually knew instead of unknown people from the internet
+- Explore:
+  - https://www.huffingtonpost.com/2011/06/30/how-myspace-fell-apart_n_887853.html
+  - https://www.theguardian.com/technology/2015/mar/06/myspace-what-went-wrong-sean-percival-spotify
+  - https://www.youtube.com/watch?v=f0vYYf81cfE
 
-***How does the medium in which we communicate affect what we’re saying? Why do you choose one medium over another?***
 
-**Liz Beth:** Take Snapchat vs. Email, for example. I’d use my Snapchat to send spontaneous, in-the-moment messages, with “little” thought to what I’m sharing. But if I were to compose an email, I’d sit down and think really hard about what I’m going to send, because I feel that there’s a certain level of formality I’ll have to attach to it, even if I’m writing to one of my best friends. I wouldn’t use email to explain in detail how amazing that ice cream sundae I had two minutes ago was; I don’t feel emails are meant for that. I’d use it to describe an entire day or period of time (like a four-day long vacation, a week, or a month) has been. But I’d use IMs or Snapchat — things in which I can receive an equally spontaneous reply — for little moments throughout my day. Also, I’d prefer face-to-face as a medium when communicating sensitive or important information. If that can’t do, I’d use a phone or video call.
+**Viber**
 
-**Victoria Sin:** I think that different mediums of communication have varying degrees of formality. Writing a letter and chatting through instant messaging is different as I can get a much quicker response through IMs - I could chat with someone halfway across the globe and get a real-time, quick response.
+- Lack of flexibility
+  - Viber users are only allowed to call other users with the Viber app on their phone
+  - Only available on certain platforms i.e. BlackBerry, iOS, Android
+- Reduced mobility
+  - Greatly dependent on Wi-fi connection for free calls
 
-**Terry:** Texting, for example, can be less personal and lack emotions at times.
 
-**Sarah Swea:** I think apps like Snapchat are so popular because the chat isn't permanent unless it's saved and even so, if anyone wants to make a record of it, the other person will be notified. There's less brain to mouth -- or rather, keyboard? -- filter that way because you aren't as scared that what you're saying might be shown to an audience beyond the person you're actively conversing with. Also, IM apps are way more convenient than racking up phone bills or snail-mailing a RSVP to someone.
+**Tinder**
 
-**Tanushri:** I believe that people tend to be bolder than they are in reality on the Internet. On the Internet, identity forgery is something common, thus removing fear of being caught in reality for their actions/words.
+- The truest of oneself is concealed for the most part (though this can be prominent for other forms of social media as well)
+  - Personality, predilections so on and so forth can be easily forged and considering that Tinder requires us to interact with complete strangers for the most part ( compare to social media like Facebook ) it is even more so unpredictable as to whether or not an individual truly intends to be honest with other users.
+- Explore:
+  - https://www.theblot.com/tinder-new-way-online-dating-based-looks-7712229
+  - https://www.theodysseyonline.com/various-pros-cons-tinder
+  - https://techcrunch.com/2015/03/12/hate-it-or-love-it-tinders-right-swipe-limit-is-working/
+  - https://www.reddit.com/r/Tinder/comments/6agqpk/did_tinder_decrease_the_swipe_limit/
 
-**Jack:** Some make communication easier or minimize misunderstanding. Emojis are easy to misinterpret. Texting is too. Their message was short, do they hate me? You know, that kinda thing. I like Whatsapp because it's just texting, it's simple and quick. I don't prefer Snapchat because it's pointless and superficial. Also people use it to diss other people more than most other platforms cuz the pics disappear.
- 
-***How would the WSC community be different if we did not rely on social media?***
 
-**Liz Beth:** Attending Globals would likely mean the only new friends you’d make there are people from your Scavenge team or your opponents in debates (in case you’re too shy to randomly strike up a conversation with someone sitting next to you during a meal or in the auditorium during an event); it somehow narrows the pool from which you can make new friends. Lack of social media in the WSC community would mean many people who are great friends now would never have known each other — because it seems to be common for a lot of people to have met online first, realised they had chemistry, and then meet for the first time in real life at a round. Meeting each other would have been an active process on the side of both parties involved; rarely would it be left to chance.
+**Discord:**
 
-**Victoria Sin:** I would say that the whole community would be much more detached - we wouldn't be able to bond or become closer friends. I really appreciate how social media has helped me bond with the WSC community :)
+- Privacy Issues
+  - Discord policy: *Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, bankruptcy, dissolution or similar event, your information may be part of the transferred assets.*
+- Caters more to the gaming demographic
+  - If we’re talking about general use, it does cater to the masses as a whole. Especially if it were to be used for business purposes as we’ve discussed in the bullet before this where Discord could potentially liquidize your information as assets to earn revenue   
+- Explore:
+  - https://discordapp.com/developers/docs/topics/rate-limits
 
-**Terry:** There would be not opportunity to engage in the community outside of physical rounds, not to mention being able to team up with scholars from other countries.
 
-**Sarah Swea:** So, so very different. I think it'd be a lot smaller and a lot less entangled.
+**Wechat:**
 
-**Tanushri:** I believe that the family-like bond of literal strangers from all over the world would not have been this tight.
+- More prominently used in Eastern Countries (predominant in China), less practical in Western countries
+  - This could be attributed to the lack of focus given by Tencent towards integrating Wechat as a global social medium
+  - https://jtangkua.wordpress.com/2015/09/06/whatsapp-web-its-usages-limitation-for-now/
+  - https://in.reuters.com/article/asia-messaging-wechat-line-whatsapp-vibe/asia-messaging-apps-seek-to-upend-rivals-with-marketing-might-idINDEE99L0CM20131022
+- Services are either non-existent/ impractical in the international version of the app
+  - https://www.techinasia.com/3-reasons-wechat-failed-internationally-chinese-apps
 
-**Jack:** No way would all those messages get out there and allow people to connect. No way would we be able to make lasting memories, maintaining friendships with scholars we've just met.
 
-***How did the internet help connect you and other members of the WSC Community?***
+**Vkontakte:**
 
-**Liz Beth:** I have “met” several people — from staff to fellow Scholars — through social media, whom I’d have probably never met or heard of otherwise, and we’re friends (I hope HAHAH); we either got to know each through social media, or we met at a round and have kept up communication by means of it. Yay Facebook!
-
-**Victoria Sin:** The internet has helped me stay in touch with so many friends who I've made in WSC and also make new friends with people who I've never actually seen before. I can't wait to meet everyone soon!
-
-**Terry:** The Facebook group is an absolutely amazing opportunity to stay in touch with scholars as well as get meaningful content. WSC wouldn’t be the same without social media.
-
-**Sarah Swea:** My favourite stories from WSC are unlikely friendships, because it's a phenomenon so unique to this incredible community. I could send a Snap to this group of scholars from all regions of Asia right now if I wanted, or shoot an American scholar a message about the syllabus. Some of the friends I've made, I haven't ever met IRL, as the kids say, before. It's kind of surreal knowing there are so many invisible hands reaching through the screen and holding you whenever you feel like you're alone and helpless. Clichéd, but in all the best ways.
-
-**Tanushri:** I was able to keep in touch with friends on the other side of the world instantly.
-​
-**Jack:** The Facebook group, mostly. The WSC website itself was also informative.
+- (Much like Wechat) lacks global application and is localised
 
 <br>
