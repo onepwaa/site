@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Valentine
-image: /assets/img/valentine/download.png
+image: /assets/img/valentine/valentineposter.png
 topic: deep-dives
 ---
 
