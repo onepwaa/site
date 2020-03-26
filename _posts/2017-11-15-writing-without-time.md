@@ -22,4 +22,4 @@ Good luck, happy writing, and may you be satisfied.
 
 *Tracy Huang is the founder of dawritespace.com, an editing and writing service for college and graduate school applicants. She volunteered in 2016 at the Yale Tournament of Champions and has a pink alpaca in her office named Geraldine.*
 
-<br>
+<br> 
