@@ -56,7 +56,7 @@ hr {
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
-  color: #fff !important;
+  color: #e3e3e3 !important;
 }
 
 a, a:hover {
