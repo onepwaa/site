@@ -1,11 +1,11 @@
 ---
 layout: post
-title: A World on the Margins - A Review, and Looking Forward
+title: Beyond Character - The Stanford Prison Experiment
 image: /assets/img/beyond-character-the-stanford-prison-experiment/design.jpg
 topic: deep-dives
 ---
 
-### A World on the Margins: A Review, and Looking Forward
+### Beyond Character - The Stanford Prison Experiment
 
 A prevalent question that commonly arises is whether people are inherently born evil--or turn evil as a result of the situation and environment that they are born into. The Stanford Prison Experiment was conducted with this specific question in mind. Whether it be dehumanization and discrimination, to the black sheep effect and the realistic conflict theory, this psychological study touched on these areas. In this Deep Dive, we will analyze the Stanford Prison Experiment in great detail--from its history of initiation to the criticisms received.
 
