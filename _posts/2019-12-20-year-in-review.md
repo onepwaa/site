@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A World on the Margins: A Review, and Looking Forward
+title: A World on the Margins - A Review, and Looking Forward
 image: /assets/img/copy-of-1p-a-world-on-the-margins-a-review-and-looking-forward_1.png
-topic: deep-dive
+topic: deep-dives
 ---
 
 ### A World on the Margins: A Review, and Looking Forward
