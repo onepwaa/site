@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Science 2019 | Lights, Camera, Transaction!
-image: /assets/img/1p-deep-dive-2_1_orig.jpg
+title: Special Area 2019 | Codexes to Mystify!
+image: /assets/img/1p-deep-dive-5_orig.jpg
 topic: deep-dives
 ---
 
-### Lights, Camera, Transaction!
+### Codexes to Mystify!
 
 Ever been stuck between two people that speak a language you don’t? Often deemed an alternate “third-wheeling” experience, such is both confusing and, at times, painful. 
  
