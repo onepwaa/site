@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History | Study Guide
+title: 2019 History | Study Guide
 image: /assets/img/neglected-history.jpg
 topic: study-guide
 ---
