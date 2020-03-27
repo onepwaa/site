@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HoWSC 10 | Anis Adiba
-image: /assets/img/howsc-images/11-ellen-ng.png
+image: /assets/img/howsc-images/10-anis-adiba.png
 topic: humans-of-wsc
 ---
 
