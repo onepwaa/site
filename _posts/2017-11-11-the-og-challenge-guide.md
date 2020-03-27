@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The OG Challenge Guide | Lexi Prichard
-image: /assets/img/3-ways_1_orig.jpg
+image: /assets/img/og-challenge-guide_1_orig.jpg
 topic: strategy
 ---
 
