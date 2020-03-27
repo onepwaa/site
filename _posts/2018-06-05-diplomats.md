@@ -5,6 +5,8 @@ image: /assets/img/14-deepdive-11_orig.png
 topic: deep-dives
 ---
 
+### 2018 History | Famous Diplomats
+
 **Niccolo Machiavelli:**
 
 - 1469-1527

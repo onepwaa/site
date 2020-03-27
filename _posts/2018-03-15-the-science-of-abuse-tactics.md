@@ -5,6 +5,8 @@ image: /assets/img/10-the-science-of-abuse-tactics_orig.png
 topic: deep-dives
 ---
 
+### 2018 Science | The Science of Abuse Tactics and How They Affect Your Brain
+
 **Motivated forgetting (Sherlock Holmes, BBC Sherlock)**
 
 BBC’s adaptation of Sherlock isn’t exactly famous for its lack of plot twists, but it was still surprising when they dropped these bombshells: Redbeard wasn’t the dog Sherlock had to put down as a child. Redbeard was his childhood friend, Victor Trevor. Victor was drowned by Sherlock’s psychopath sister, Eurus when they were kids, so he “deleted” both of them and made up a story about Redbeard the Irish Setter to make him feel better (And I thought finding out the dog died was the saddest part of his life *sniffle*).

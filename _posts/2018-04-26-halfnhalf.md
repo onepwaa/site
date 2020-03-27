@@ -5,6 +5,8 @@ image: /assets/img/11-halfnhalf-project_orig.png
 topic: deep-dives
 ---
 
+### 2018 ​Art | halfnhalf project (2015) by shinli-art
+
 Being in a long distance relationship is no easy feat. Time differences and physical distance can make it hard for the connection to stay strong...but artists **Li Seok** and **Danbi Shin** have found a way to document and share moments from each of their lives with the other.
 
 After Danbi Shin moved from their home in South Korea to New York City, the pair started a photo collage project called Half & Half to document their lives apart. Shin told Buzzfeed in an interview: “We were sad to be apart. I just wanted to embrace the romantic and normal moments as an ordinary couple, imagine eating cereal and watching taxis go by together.”

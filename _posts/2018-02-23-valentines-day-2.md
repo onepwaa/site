@@ -5,6 +5,8 @@ image: /assets/img/4-valentine-s-special-1-2_orig.jpg
 topic: deep-dives
 ---
 
+### 2018 Special Area​ | Valentine's Day Special 2
+
 In this set of the Valentine’s special, scholars from all over the world share their views on family and culture. Enjoy!
 *(Editor's/Swea's Note: one of the most entertaining parts of this section was the variations of Jackalyn's name across the questions.)*
 

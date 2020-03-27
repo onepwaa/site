@@ -5,6 +5,8 @@ image: /assets/img/how-to-memorise-the-entire-wsc-syllabus-in-one-month_orig.png
 topic: deep-dives
 ---
 
+### 2018 Science | How to memorise the whole WSC syllabus in one month
+
 Desperate to cram the WSC curriculum when your regionals are in one month? Our researchers from the Scholars Department have devised a way to help you memorize the curriculum! Check it out!
 
 **Disclaimer: Following the instructions below do not guarantee results. Should a Scholar fail to achieve the aforementioned superhuman feat, they must not:**
