@@ -1,3 +1,3 @@
 ## [WIP] OnePwaa Redesigned Website
 
-By Sam Poder
+Made By Sam Poder and Elaine Zhu
