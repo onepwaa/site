@@ -335,7 +335,7 @@ a, a:hover {
   margin-bottom: 0;
 }
 
-.darkmode--activated a{
+.darkmode--activated a, .darkmode--activated a:hover{
   color: #bbd8fb !important;
 }
 
