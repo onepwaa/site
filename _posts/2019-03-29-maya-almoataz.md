@@ -22,3 +22,5 @@ On the whole, WSC taught me that there’s more to success than just smarts: you
 I’ll be doing WSC this season, and I hope to go all the way to the Tournament of Champions again. This year, my goals are to work efficiently and happily with my team, to listen and discuss new ideas and improve my own by listening to feedback, and to meet and make as many amazing friends as possible! Most of all, I’ll treasure the memories I made last season even more as I get to create new ones. I’d like to thank my parents for supporting me more than anyone ever could, my teachers for helping me prepare and taking me through the journey with care and kindness, my friends, new and old, for being by my side and constantly reminding me that I am able to succeed, and lastly, the whole WSC community, for making memes and cheering me up all the time. Also, all the beyond awesome WSC staff that I’ve met and taken pictures with at every round! I love this community with all my heart and I’ll never forget all the memories I’ve made and the ones to come, because they mean the world to me.
 
 *Tell us your story - apply now by emailing [onepwaa@gmail.com](mailto:onepwaa@gmail.com)!*
+
+<br>
