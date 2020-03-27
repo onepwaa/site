@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HoWSC 15 | Maxine Magtoto
-image: /assets/img/1p-howsc_orig.png
+image: /assets/img/howsc-images/15-Maxine-magtoto.png
 topic: humans-of-wsc
 ---
 
