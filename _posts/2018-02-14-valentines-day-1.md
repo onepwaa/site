@@ -5,6 +5,8 @@ image: /assets/img/5-valentines-special-3_orig.png
 topic: deep-dives
 ---
 
+### 2018 Special Area​ | Valentine's Day Special 1
+
 Social media has tremendously impacted the relationships we have today, especially the ones we make at WSC. Read some of the opinions of various scholars about this topic. Happy Valentine’s Day!
 
 ***How has social media influenced your relationships?***

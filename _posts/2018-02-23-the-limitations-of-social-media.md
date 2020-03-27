@@ -5,6 +5,8 @@ image: /assets/img/6-limitations-of-social-media_1_orig.png
 topic: deep-dives
 ---
 
+### 2018 Special Area | The Limitations of Social Media
+
 Who knew that Facebook only acts in their interests and not for the public good? Find out more in our fourth deep dive in the Limitations of Social Media!
 
 There are multiple factors that make different forms of social media obsolete to one another in some way. The following few are just some of the many factors that limit the efficiency of said mediums, hence you are encouraged to do some in depth research on your own so that you will be able to full grasp the intricacies of the topic discussed.

@@ -5,6 +5,8 @@ image: /assets/img/valentine/valentineposter.png
 topic: deep-dives
 ---
 
+### Valentine
+
 Hi scholars! This time, we decided to use a slightly different approach for our second curriculum deep dive! This is “Valentine” by Carol Ann Duffy and in this post, we're going to be looking at the discussion questions for this poem. This is a compilation of the opinions of some scholars in our community on the discussion questions. Enjoy!
 
 ****
