@@ -107,4 +107,18 @@ this is <br><strong> OnePwaa</strong>
     </div>
 </section>
 
+<button id="darkmode-button">Toggle dark mode</button>
+
+<script src="path/to/darken"></script>
+<script>
+	const darkmode = new darken({
+		class: "darkmode-active",
+		variables: {
+			"--primary-color" : ["#000000", "#fafafa"],
+			"--background-color" : ["#fafafa", "#000000"]
+		},
+		toggle: "#darkmode-button",
+	});
+</script>
+
 {% include footer.html %}
