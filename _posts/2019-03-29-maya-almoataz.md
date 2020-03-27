@@ -5,7 +5,7 @@ image: /assets/img/14-maya-almoataz.png
 topic: humans-of-wsc
 ---
 
-###HoWSC 14 | Maya Almoataz
+### HoWSC 14 | Maya Almoataz
 
 So many people ask me “Why do you waste so much of your time studying for stuff that isn’t mandatory?” or “What is the point of competing if you just sit there and do tests?” Well, it’s so much more than that. The World Scholar’s Cup is more than just a competition, it’s an experience. An experience that anyone is blessed to have. You learn things in preparation, you gain friends in the journey, you collaborate with them and earn so much knowledge that serves you well. So saying it’s “just a meaningless competition” or “studying for it is boring” aren’t valid opinions. They could be, except most of the people who say these things, haven’t even tried it out. They haven’t felt that incredible feeling of joy when you’re walking to the stage, electrified by all the smiles and applause, waiting to get those medals placed on you like you’re a champion. They haven’t felt that excitement when you board a plane or first arrive in the country where your round is taking place. They haven’t felt the sorrow and dread everyone feels when leaving a place that holds so many life-changing memories. They haven’t felt the depression that everyone has when they’ve gotten back to their homes. And most importantly, they haven’t been able to tell people that they’ve had the best experience they ever could, because obviously, they haven’t.  
 
@@ -21,4 +21,4 @@ On the whole, WSC taught me that there’s more to success than just smarts: you
 
 I’ll be doing WSC this season, and I hope to go all the way to the Tournament of Champions again. This year, my goals are to work efficiently and happily with my team, to listen and discuss new ideas and improve my own by listening to feedback, and to meet and make as many amazing friends as possible! Most of all, I’ll treasure the memories I made last season even more as I get to create new ones. I’d like to thank my parents for supporting me more than anyone ever could, my teachers for helping me prepare and taking me through the journey with care and kindness, my friends, new and old, for being by my side and constantly reminding me that I am able to succeed, and lastly, the whole WSC community, for making memes and cheering me up all the time. Also, all the beyond awesome WSC staff that I’ve met and taken pictures with at every round! I love this community with all my heart and I’ll never forget all the memories I’ve made and the ones to come, because they mean the world to me.
 
-*Tell us your story - apply now by emailing onepwaa@gmail.com!*
+*Tell us your story - apply now by emailing [onepwaa@gmail.com](mailto:onepwaa@gmail.com)!*
