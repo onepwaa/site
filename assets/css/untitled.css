@@ -333,5 +333,10 @@ a, a:hover {
   opacity: 0.3;
   font-size: 13px;
   margin-bottom: 0;
+}
+
+.darkmode--activated a{
+  color: #bbd8fb !important;
+}
 
 
