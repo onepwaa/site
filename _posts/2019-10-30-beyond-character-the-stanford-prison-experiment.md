@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond Character - The Stanford Prison Experiment
+title: Social Studies 2019 | Beyond Character - The Stanford Prison Experiment
 image: /assets/img/beyond-character-the-stanford-prison-experiment/design.jpg
 topic: deep-dives
 ---
