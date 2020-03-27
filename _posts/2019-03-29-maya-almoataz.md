@@ -5,7 +5,7 @@ image: /assets/img/14-maya-almoataz.png
 topic: humans-of-wsc
 ---
 
-###HoWSC 14 | Maya Almoataz
+### HoWSC 14 | Maya Almoataz
 
 So many people ask me “Why do you waste so much of your time studying for stuff that isn’t mandatory?” or “What is the point of competing if you just sit there and do tests?” Well, it’s so much more than that. The World Scholar’s Cup is more than just a competition, it’s an experience. An experience that anyone is blessed to have. You learn things in preparation, you gain friends in the journey, you collaborate with them and earn so much knowledge that serves you well. So saying it’s “just a meaningless competition” or “studying for it is boring” aren’t valid opinions. They could be, except most of the people who say these things, haven’t even tried it out. They haven’t felt that incredible feeling of joy when you’re walking to the stage, electrified by all the smiles and applause, waiting to get those medals placed on you like you’re a champion. They haven’t felt that excitement when you board a plane or first arrive in the country where your round is taking place. They haven’t felt the sorrow and dread everyone feels when leaving a place that holds so many life-changing memories. They haven’t felt the depression that everyone has when they’ve gotten back to their homes. And most importantly, they haven’t been able to tell people that they’ve had the best experience they ever could, because obviously, they haven’t.  
 
