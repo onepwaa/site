@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HoWSC 14 | Maya Almoataz
-image: /assets/img/14-maya-almoataz.png
+image: /assets/img/howsc-images/14-maya-almoataz.png
 topic: humans-of-wsc
 ---
 
