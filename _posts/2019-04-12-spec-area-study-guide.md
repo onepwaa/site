@@ -7,6 +7,6 @@ topic: study-guide
 
 ### 2019 Special Area | Study Guide
 
-<iframe src="https://www.scribd.com/embeds/424941710/content?start_page=1&view_mode=scroll&access_key=key-iXk6YOntBvGMZryjDec4" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Ka3xMtGj2F4MXU7tGze4Nqz67rIBMzDR/preview" width="640" height="480"></iframe>
 
 <br>
