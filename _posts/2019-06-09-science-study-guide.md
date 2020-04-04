@@ -7,6 +7,6 @@ topic: study-guide
 
 ### 2019 Science | Study Guide
 
-<iframe src="https://www.scribd.com/embeds/424942098/content?start_page=1&view_mode=scroll&show_recommendations=false&access_key=key-yQie21WOBAo9x3GGC6W5" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1KaiJSlGUj9kHqncGrz7YLJKU5i-uBWrN/preview" width="640" height="480"></iframe>
 
 <br>
