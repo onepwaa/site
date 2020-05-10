@@ -26,17 +26,17 @@ So love, no matter the consequences, no matter how tangled up you get, because i
 
 ### Review & Feedback
 
-### Terry:
+**Terry:**
 The overall message of the piece is spectacular but would benefit greatly in terms of clarity with smoother transitions between paragraphs. The variation in tone between the paragraph about forgiveness and the later personal anecdote could also be potentially distracting for readers. I found a few grammatical errors and strange word choice in the piece but on a more macro level I think adding the part about forgiveness into a piece about personal anecdotes was slightly odd. I think this essay needs more clarity and that could be achieved by adding better transitions - although I do like the message of the essay!
 
-### Darren:
+**Darren:**
 Transitions, transitions, transitions. I cannot emphasize often enough how important it is to have a central, overarching theme to the topic which is clear enough to allow sufficient reader comprehension. This essay does have a strong underlying message - that love is the key to unlocking the imperfections of entanglement and responsible for transforming those very same imperfections into the knot of wondrous moments we live for. What it does not have, however, is a consistent transitional tone that conveys the purpose of this prose. The reader is left with questions that blur the lines of the message. Yes, we should love. Yes, love may well disentangle life's imperfections. But the how and the why behind that thought process is hidden behind an obviously intended anecdotal tone bordering on the pretentious. As a result, the beautiful message of the prose above is overshadowed by a lack of linguistic flow.
 
 For example, the piece started out leaning towards the contemplative by pondering the inherent connotations of "entangled". The philosophical render was perfectly tuned into a solution for the challenges of entanglement - love. However, the tone of the second paragraph was inconsistent with the contemplative tone that made the introduction so successful and ruined what was achieved in the first - distracting the reader's overall impression and drawing attention to any flaws to be found later. More odd inconsistencies like these, including the absence of any tie-in for the concept of forgiveness to the purpose of conveying love through anecdotes, ultimately bogged down what I felt could have been one of the most creative contemplative pieces I have ever read in the WSC universe.
 
 Truly, this has the potential to be inspiring - it's just that sometimes even the best of writers can overshadow their creative premise by overdoing their awareness of literary utilitarianism. All in all, the interesting premise of this piece alone warrants a gold medal for me, but nowhere near individual stardom. 
 
-### Maxwell:
+**Maxwell:**
 The main takeaway here is the literary and structural methods in which the writer employed to create the overarching tone and effect of the piece.  
 When writing about anything, it is crucial to swiftly set up boundaries. This often comes in the form of the opening paragraph; and inversely, the final paragraph should serve to provide the reader a satisfactory send-off, while possessing some linguistic or conceptual resemblance to the first. The writer does precisely that.  
 
