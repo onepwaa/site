@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grow Up, Child: An Essay of Miracles’ Qualifications, Reservations, and Footnotes | Victoria Liau
+title: Grow Up, Child - An Essay of Miracles’ Qualifications, Reservations, and Footnotes | Victoria Liau
 image: /assets/img/essay1.png
 topic: essay
 ---
