@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "The Perfect Match" | Ryan Wong
+title: The Perfect Match | Ryan Wong
 image: /assets/img/essay5.png
 topic: essay
 ---
 
-### "The Perfect Match" | Ryan Wong
+### The Perfect Match | Ryan Wong
 
 Technology. The ever-watching, ever-serving, ever-present marvel of humanity is evolving exponentially at an alarming rate. What were once mere gadgets of essentiality and simplicity have transformed into exquisitely elaborate machines, firmly holding onto the leash fastened around the world’s throat...
 
-### We should work against becoming the world of ‘The Perfect Match’.
+**We should work against becoming the world of ‘The Perfect Match’.**
 
 ‘The Perfect Match’ is a work of fiction authored by Ken Liu, which details the rapid progress of technology, and the effects it has on the human population. Tilly, a cyborg featured in the story, is an assistant to Sai, a young employee. Tilly was manufactured by Centillion, a massive corporate empire which has taken over the world. Over time, Sai is convinced by his paranoid neighbour Jenny that Centillion is not what it seems nor claims to be. Together the both of them work to bring down the giant business. Sai is later captured, and the CEO of Centillion, Rinn, explains to him how humanity and technology will eventually merge and that if Centillion is abolished, something worse would step in. Rinn later states that although the technology is a breach of privacy, it has succeeded in capturing and stopping murderers, terrorists and more. So the question that remains is: should we embrace the impending merging of the very machines we have created, or work to stop it before it’s too late?
 
