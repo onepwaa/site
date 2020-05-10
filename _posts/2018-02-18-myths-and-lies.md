@@ -33,18 +33,18 @@ But myths are somebody’s truth.
 
 Sometimes, they are ours.
 
-**Terry**
+**Terry** <br>
 Style:
 The author reflects upon the numerous examples provided in the piece, which lends it a very thoughtful tone. The occasional shift to second person at the end of paragraphs also gives this piece a very distinct voice that adds to the credibility of the author.
 The one-sentenced segments serve as transition for the piece and outline the general ideas in a concise and memorable manner.
 Stylistically, the blended use of personification and concrete real-world examples manages to make this piece both tangible and poetic at the same time.
 
-**Review by Max:**
+**Review by Max:** <br>
 Content - Presenting myths as optimistic and hopeful, contrasting the deceitful and relentless portrayal of lies is the general premise of this piece. Personifying myths as “teachers” and “pioneers” while lies as “tricksters” and “backstabbers” serve to ground these intangible ideas into real life embodiments, making them more relatable to the reader; while simultaneously implying that these two concepts are only alive due to the fact that humanity exists. Additionally, the writer has strong and definite things to say about these two abstractions that often times heavily juxtapose one another, as highlighted in the structure of the piece.
 
 Organisation: This piece possess good flow throughout. Its start and end also invoke a sense of belonging and a feeling of inherent poetry. The short one sentence paragraphs help guide the reader’s train of thought in this abstract journey and help link, and directly contrast the concepts of myths and lies into self-contained bubbles of thought. Ultimately, blatantly comparing the two topics emphasises the fact that both sides are being considered equally and adds reliability and certainty to the essay’s conclusions. Personally, I found the organisation of this essay to be superb due to the mastery shown in juggling simplicity while still serving to leave a deep resonance within the reader.
 
-**Overall review by Thi To Hien**
+**Overall review by Thi To Hien** <br>
 Style: The idea of using statements about memories, myths and lies is a good one (although I don’t really see the relations between memories and the two.. our past experiences?) . And, for each idea, you have a statement about Myth or Lie then, a developed paragraph about the other, in which makes it clear about the differences between Myth and Lie.
 Content: You have been, showing rather than telling us your points using examples, from things that may happen in real life (the example of the friends) and also, showing your understanding of the curriculum by giving various examples in different subject of  2017. This essay of yours clearly state what you think without using phrases like “I disagree with this…”.
 Organization: You are really good at dividing paragraphs and cutting of those that are unnecessary (an example of using a statement vs a paragraph instead of two long paragraphs). And also, you restate what you had already said at the beginning, in which shows us that you firmly believe in what you are about to write – and has written about.
