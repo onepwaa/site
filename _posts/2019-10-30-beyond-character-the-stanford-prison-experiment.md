@@ -16,7 +16,7 @@ The Stanford Prison Experiment, initiated and funded by the U.S. Office of Naval
 **Mechanics**
 
 To examine his hypothesis that prison brutality is caused by situational, rather than dispositional, factors, Zimbardo and his colleagues set up a prison experiment in the basement of Stanford University’s Psychology department building in 1973. The experiment was intended to last for 2 weeks.
-​
+<br>
 **Subjects**
 
 70 responded to a public advertisement by the researchers, promising a pay of $15/day. 24 male college students with no history of conviction, drug abuse, or mental problems, were selected. They were randomly divided into two groups, prisoners and guards, with three stand-bys on each. 
