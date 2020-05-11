@@ -32,7 +32,8 @@ To resemble the prison experience, “prisoners” experienced the full process 
 
 Three rooms and a corridor in the basement of Jordan Hall were cordoned off and repurposed into cells and the common area (“the Yard”) for inmates, respectively. A small closet called “the Hole,” served as a solitary confinement cell for unruly inmates. All activity was recorded through an opening at the end of the hall. There were no windows or clocks, stripping away the sensation of time.
 
-<img src = "/assets/img/beyond-character-the-stanford-prison-experiment/screen-shot-2019-10-30-at-6-32-22-pm_orig.png" width = "100%")
+<img src="/assets/img/beyond-character-the-stanford-prison-experiment/screen-shot-2019-10-30-at-6-32-22-pm_orig.png" alt="writing-table.png" width="100%">
+
 
 “The Yard” (prisonexp.org)
 
