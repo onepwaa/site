@@ -49,8 +49,7 @@ When it comes to storytelling with a moral, it’s very important to emphasize t
 
 In conclusion, writing stories is a very effective way to tactically excel in the judging and ranking process of the writing competition and making those stories relevant is absolutely necessary. As long as you chose appropriate values to discuss, use conditional and conjunction sentences, and use the actions of characters to develop the plot, you can definitely create an intriguing, relevant story that will snatch you a good score at your next upcoming round. 
 
-![writing-table.png](/assets/img/writing-table.png)
-
+<img src="/assets/img/writing-table.png" alt="writing-table.png" width="100%">
 
 
 
