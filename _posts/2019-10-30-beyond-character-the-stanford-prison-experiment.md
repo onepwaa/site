@@ -15,8 +15,8 @@ The Stanford Prison Experiment, initiated and funded by the U.S. Office of Naval
 
 **Mechanics**
 
-To examine his hypothesis that prison brutality is caused by situational, rather than dispositional, factors, Zimbardo and his colleagues set up a prison experiment in the basement of Stanford University’s Psychology department building in 1973. The experiment was intended to last for 2 weeks.
-​
+To examine his hypothesis that prison brutality is caused by situational, rather than dispositional, factors, Zimbardo and his colleagues set up a prison experiment in the basement of Stanford University’s Psychology department building in 1973. The experiment was intended to last for 2 weeks.<br>
+<br>
 **Subjects**
 
 70 responded to a public advertisement by the researchers, promising a pay of $15/day. 24 male college students with no history of conviction, drug abuse, or mental problems, were selected. They were randomly divided into two groups, prisoners and guards, with three stand-bys on each. 
@@ -32,7 +32,8 @@ To resemble the prison experience, “prisoners” experienced the full process 
 
 Three rooms and a corridor in the basement of Jordan Hall were cordoned off and repurposed into cells and the common area (“the Yard”) for inmates, respectively. A small closet called “the Hole,” served as a solitary confinement cell for unruly inmates. All activity was recorded through an opening at the end of the hall. There were no windows or clocks, stripping away the sensation of time.
 
-<img src = "/assets/img/beyond-character-the-stanford-prison-experiment/screen-shot-2019-10-30-at-6-32-22-pm_orig.png" width = "100%")
+<img src="/assets/img/beyond-character-the-stanford-prison-experiment/screen-shot-2019-10-30-at-6-32-22-pm_orig.png" alt="writing-table.png" width="100%">
+
 
 “The Yard” (prisonexp.org)
 

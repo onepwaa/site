@@ -23,7 +23,7 @@ title: Knowledge
 
             <h3 id = "guides" style = "padding-left: 10px;">Study Guides</h3>
 
-            <i style = "padding-left: 10px;">Looking for Deep Dives? Jump to <a href = "#deep-dives">here</a>.</i>
+            <i style = "padding-left: 10px;">Jump to <a href = "#deep-dives">here for Deep Dives</a> and <a href = "#essay">here for Essays</a>.</i>
 
             <div class="row no-gutters">
 
@@ -42,12 +42,6 @@ title: Knowledge
                     <img class="img-fluid" src="{{ post.image }}">
 
                     <center>
-
-                    <div class="project-category" style = "padding-top: 15px;">
-                        
-                        <span style = "color: #343a40 !important">{{ post.date | date: "%B %e, %Y" }}</span>
-    
-                    </div>
         
                     <div class="project-name" style = "padding-top: 10px;">
             
@@ -71,7 +65,7 @@ title: Knowledge
 
             <h3 id = "deep-dives" style = "padding-left: 10px;">Deep Dives</h3>
 
-            <i style = "padding-left: 10px;">Looking for Study Guides? Jump to <a href = "#guides">here</a>.</i>
+            <i style = "padding-left: 10px;">Jump to <a href = "#essay">here for Essays</a> and <a href = "#guides">here for Study Guides</a>.</i>
 
             <div class="row no-gutters">
 
@@ -91,15 +85,51 @@ title: Knowledge
 
                     <center>
 
-                    <div class="project-category" style = "padding-top: 15px;">
-                        
-                        <span>{{ post.date | date: "%B %e, %Y" }}</span>
-    
-                    </div>
-        
                     <div class="project-name" style = "padding-top: 10px;">
             
                         <span><strong>{{ post.title }}</strong></span>
+    
+                    </div>
+                    
+                    </center>
+                    </a>
+                    
+
+                </div>
+
+                {% endif %}
+                {% endfor %}
+                
+            
+            </div>
+
+            <br>
+
+            <h3 id = "essay" style = "padding-left: 10px;">Essays</h3>
+
+            <i style = "padding-left: 10px;">Jump to <a href = "#deep-dives">here for Deep Dives</a> and <a href = "#guides">here for Study Guides</a>.</i>
+
+            <div class="row no-gutters">
+
+
+
+                {% for post in site.posts %}
+
+                {% if post.topic == "essay" %}
+
+                <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;padding-top: 10px;">
+
+                    
+                    
+                    
+                    <a href="{{ post.url }}">
+                    <img class="img-fluid" src="{{ post.image }}">
+
+                    <center>
+        
+                    <div class="project-name" style = "padding-top: 10px;">
+            
+                        <span style = "color: #343a40 !important"><strong>{{ post.title }}</strong></span>
     
                     </div>
                     

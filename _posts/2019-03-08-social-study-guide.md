@@ -7,6 +7,6 @@ topic: study-guide
 
 ### 2019 Social Studies | Study Guide
 
-<iframe src="https://www.scribd.com/embeds/424940783/content?start_page=1&view_mode=scroll&show_recommendations=false&access_key=key-lQfCBPlaRKyvv5kxnm7f" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1x9bbxdJhuE5zBwe5uKSxpnYsh3toc_xu/preview" width="640" height="480"></iframe>
 
 <br>

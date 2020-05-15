@@ -63,6 +63,12 @@ a, a:hover {
   color: #000000;
 }
 
+@media only screen and (max-width: 450px) {
+  .image1 {
+    max-width: 30%!important;
+  }
+}
+
 .team-grid {
   color: #313437;
   background-color: #fff;
