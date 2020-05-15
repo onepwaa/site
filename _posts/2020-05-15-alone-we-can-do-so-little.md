@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Alone we can do so little; Together we can do so much | Charlene Hui
+title: Alone We Can Do So Little; Together We Can Do So Much | Charlene Hui
 image: /assets/img/alone-we-can-do-so-little.jpg
 topic: essay
 ---
 
-### Alone we can do so little; Together we can do so much | Charlene Hui
+### Alone We Can Do So Little; Together We Can Do So Much | Charlene Hui
 
 *Together. The planet brought us together in a world as one and we tore it apart. We tore our home apart, and we did it together.*
 
