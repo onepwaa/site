@@ -40,61 +40,69 @@ this is <br><strong> OnePwaa</strong>
 
 </div>
         </div>
+            
         <div class="row">
-            <div class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start" style="margin-left: 5px !important;"><h4 class="text-uppercase" style="font-family: Montserrat, sans-serif; text-align: left; font-size: 20px"> The sound many happy alpacas make together. <br> Your resource for all things WSC. </h4>
-
-
+            
+            <div class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start" style="margin-left: 5px !important;">
+                
+                <h4 class="text-uppercase" style="font-family: Montserrat, sans-serif; text-align: left; font-size: 20px"> The sound many happy alpacas make together. <br> Your resource for all things WSC. </h4>
 
                 <hr>
+                
             </div>
         </div>
     </div>
 </header>
     
     
-    <section class="text-dark bg-white" id="about" style="padding: 64px 0px;">
-        <h2 style="text-align: center; font-weight: bold">OnePwaa's First Online WSCamp</h2>
-        <h5 style="text-align:center;">Coming soon</h5>
-
-    <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
-<img src="/assets/img/camp-poster.png" alt="Picture" style="width:auto;max-width:30%">
-</div></div>
-    
-        
 <section class="text-dark bg-white" id="about" style="padding: 64px 0px;">
+    
+    <h2 style="text-align: center; font-weight: bold">OnePwaa's First Online WSCamp</h2>
+    <h5 style="text-align:center;">Coming soon</h5>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p>The OnePwaa WSCamp will be an experience for scholars to get an insight into how to score as high as possible within the World Scholars Cup. You’ll be able to watch seminars that allow you to make your debates more persuasive, your writing
+                        more effective, and your challenge interpretations more analytical. You’ll have the opportunity to put your newfound skills into practice with our debate and writing practices, with experienced adjudicators and essay markers that will
+                        give you feedback to up your game and hone your skills.<br /></p>
+                </div>
+                <div class="col-md-6"><img src="camp-poster.png" style="width: 100%;" /></div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<section class="text-dark bg-white" id="about" style="padding: 64px 0px;">
+    
     <div class="container" style="margin-top: 30px;">
+        
         <h2 class="text-dark section-heading" style = "text-align: center;">Featured</h2>
-                <hr class="dark my-4" style="margin-bottom: 50px !important;color: rgb(0,0,0);">
+        
+        <hr class="dark my-4" style="margin-bottom: 50px !important;color: rgb(0,0,0);">
+        
         <div class="row no-gutters">
+            
             {% for post in site.posts %}
 
             {% if forloop.index <= 3 %}
-
-            
-
-            
-
-            
-
+                                   
             <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;padding-top: 10px;">
 
-                    
-                    
-                    
                 <a href="{{ post.url }}" >
-                <img class="img-fluid" src="{{ post.image }}">
+                    
+                    <img class="img-fluid" src="{{ post.image }}">
 
-                <center>
+                    <center>
 
-             
-    
-                <div class="project-name" style = "padding-top: 10px;">
-        
-                    <span style = "color: #343a40 !important"><strong>{{ post.title }}</strong></span>
+                        <div class="project-name" style = "padding-top: 10px;">
 
-                </div>
-                
-                </center>
+                            <span style = "color: #343a40 !important"><strong>{{ post.title }}</strong></span>
+
+                        </div>
+
+                    </center>
+                    
                 </a>
                 
                 
