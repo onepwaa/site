@@ -1,9 +1,5 @@
-                      # <-- top-level document
-restylers:            # <-- restylers key
-  - jdt:  # <-- 0th element
-      include:
-        - "**/*.java"
-        - "**/*.css"
-        - "**/*.html"
-        - "**/*.json"
-        - "**/*.xml"
+enabled: true
+pull_requests: true
+comments: true
+restylers:
+  - "*"
