@@ -35,33 +35,33 @@ font-size: 8vh!important
 }
 </style>
 
-this is <br><strong> OnePwaa</strong> 
+this is <br><strong> OnePwaa</strong>
 
 
 </div>
         </div>
-            
+
         <div class="row">
-            
+
             <div class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start" style="margin-left: 5px !important;">
-                
+
                 <h4 class="text-uppercase" style="font-family: Montserrat, sans-serif; text-align: left; font-size: 20px"> The sound many happy alpacas make together. <br> Your resource for all things WSC. </h4>
 
                 <hr>
-                
+
             </div>
         </div>
     </div>
 </header>
-    
+
   <div class="wsite-image wsite-image-border-none " style="padding-top:0px;padding-bottom:0px;margin-left:0px;margin-right:0px;text-align:center">
 <a href="http://apply.onepwaa.org">
 <img src="/assets/img/recruitmentbanner.png" alt="Picture" style="width:auto;max-width:100%">
 </a>
 </div>
-    
+
 <section class="text-dark bg-white" id="about" style="padding: 64px 0px;">
-    
+
     <h2 style="text-align: center; font-weight: bold">OnePwaa's First Online WSCamp</h2>
     <h5 style="text-align:center;">Coming soon</h5>
     <hr class="dark my-4" style="margin-bottom: 50px !important;color: rgb(0,0,0);">
@@ -79,25 +79,25 @@ this is <br><strong> OnePwaa</strong>
     </div>
 </div>
     </section>
-    
+
 <section class="text-dark bg-white" id="about" style="padding: 64px 0px;">
-    
+
     <div class="container" style="margin-top: 30px;">
-        
+
         <h2 class="text-dark section-heading" style = "text-align: center;">Featured</h2>
-        
+
         <hr class="dark my-4" style="margin-bottom: 50px !important;color: rgb(0,0,0);">
-        
+
         <div class="row no-gutters">
-            
+
             {% for post in site.posts %}
 
             {% if forloop.index <= 3 %}
-                                   
+
             <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;padding-top: 10px;">
 
                 <a href="{{ post.url }}" >
-                    
+
                     <img class="img-fluid" src="{{ post.image }}">
 
                     <center>
@@ -109,23 +109,23 @@ this is <br><strong> OnePwaa</strong>
                         </div>
 
                     </center>
-                    
+
                 </a>
-                
-                
+
+
 
             </div>
 
-            
+
 
             {% endif %}
             {% endfor %}
-            
-        
+
+
         </div>
-        
+
     </div>
-        
+
     </div>
 </section>
 

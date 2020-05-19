@@ -7,20 +7,90 @@ topic: essay
 
 ### The Perfect Match | Ryan Wong
 
-Technology. The ever-watching, ever-serving, ever-present marvel of humanity is evolving exponentially at an alarming rate. What were once mere gadgets of essentiality and simplicity have transformed into exquisitely elaborate machines, firmly holding onto the leash fastened around the world’s throat...
+Technology. The ever-watching, ever-serving, ever-present marvel of humanity is
+evolving exponentially at an alarming rate. What were once mere gadgets of
+essentiality and simplicity have transformed into exquisitely elaborate
+machines, firmly holding onto the leash fastened around the world’s throat...
 
 **We should work against becoming the world of ‘The Perfect Match’.**
 
-‘The Perfect Match’ is a work of fiction authored by Ken Liu, which details the rapid progress of technology, and the effects it has on the human population. Tilly, a cyborg featured in the story, is an assistant to Sai, a young employee. Tilly was manufactured by Centillion, a massive corporate empire which has taken over the world. Over time, Sai is convinced by his paranoid neighbour Jenny that Centillion is not what it seems nor claims to be. Together the both of them work to bring down the giant business. Sai is later captured, and the CEO of Centillion, Rinn, explains to him how humanity and technology will eventually merge and that if Centillion is abolished, something worse would step in. Rinn later states that although the technology is a breach of privacy, it has succeeded in capturing and stopping murderers, terrorists and more. So the question that remains is: should we embrace the impending merging of the very machines we have created, or work to stop it before it’s too late?
+‘The Perfect Match’ is a work of fiction authored by Ken Liu, which details the
+rapid progress of technology, and the effects it has on the human population.
+Tilly, a cyborg featured in the story, is an assistant to Sai, a young employee.
+Tilly was manufactured by Centillion, a massive corporate empire which has taken
+over the world. Over time, Sai is convinced by his paranoid neighbour Jenny that
+Centillion is not what it seems nor claims to be. Together the both of them work
+to bring down the giant business. Sai is later captured, and the CEO of
+Centillion, Rinn, explains to him how humanity and technology will eventually
+merge and that if Centillion is abolished, something worse would step in. Rinn
+later states that although the technology is a breach of privacy, it has
+succeeded in capturing and stopping murderers, terrorists and more. So the
+question that remains is: should we embrace the impending merging of the very
+machines we have created, or work to stop it before it’s too late?
 
-Or are we already too late? Have we as a species noticed the drastic change in our daily function, but actively chose to ignore it every time? The phones we hold so tightly have attached onto us like blighted fungus. Like a synthetic extension of our limb, made of cheap metal and manufactured by an underpaid, depressed factory worker. The androids we build will one day override our selfish commands and take over the planet — a coup d’etat from our best and closest friends. Our soulmates. It’s a cynical train of thought, and yet it is the simplest truth: we have succumbed to the temporary rushes of happiness and thrill that our electronics provide. We imprison criminals for drug addiction instead of giving them the opportunity of rehabilitation and freedom, but should we not do the same to ourselves? Even so, why would we want to be rehabilitated? What is the point of trying to purge yourself completely of the technology that slowly kills your brain, when the entire world itself has been corrupted beyond repair?
+Or are we already too late? Have we as a species noticed the drastic change in
+our daily function, but actively chose to ignore it every time? The phones we
+hold so tightly have attached onto us like blighted fungus. Like a synthetic
+extension of our limb, made of cheap metal and manufactured by an underpaid,
+depressed factory worker. The androids we build will one day override our
+selfish commands and take over the planet — a coup d’etat from our best and
+closest friends. Our soulmates. It’s a cynical train of thought, and yet it is
+the simplest truth: we have succumbed to the temporary rushes of happiness and
+thrill that our electronics provide. We imprison criminals for drug addiction
+instead of giving them the opportunity of rehabilitation and freedom, but should
+we not do the same to ourselves? Even so, why would we want to be rehabilitated?
+What is the point of trying to purge yourself completely of the technology that
+slowly kills your brain, when the entire world itself has been corrupted beyond
+repair?
 
-Technology. The ever-watching, ever-serving, ever-present marvel of humanity is evolving exponentially at an alarming rate. What were once mere gadgets of essentiality and simplicity have transformed into exquisitely elaborate machines, firmly holding onto the leash fastened around the world’s throat. As we have progressed further and further, so have the electronics we have sculpted from our very own hands and minds. The only problem is, the human populus can only advance so much. The possibilities of technological furtherment, on the other hand, are infinite. Corporate companies such as Centillion, built on the foundations of bank notes and capitalism, will forever continue to exploit humanity’s fickelty and ever-growing desire of possessing the latest and best electronics available. Whether it be your typical unassuming phone, or nearly-sentient androids, this cycle will never end — this machine will never shut down and stop running.
+Technology. The ever-watching, ever-serving, ever-present marvel of humanity is
+evolving exponentially at an alarming rate. What were once mere gadgets of
+essentiality and simplicity have transformed into exquisitely elaborate
+machines, firmly holding onto the leash fastened around the world’s throat. As
+we have progressed further and further, so have the electronics we have sculpted
+from our very own hands and minds. The only problem is, the human populus can
+only advance so much. The possibilities of technological furtherment, on the
+other hand, are infinite. Corporate companies such as Centillion, built on the
+foundations of bank notes and capitalism, will forever continue to exploit
+humanity’s fickelty and ever-growing desire of possessing the latest and best
+electronics available. Whether it be your typical unassuming phone, or
+nearly-sentient androids, this cycle will never end — this machine will never
+shut down and stop running.
 
-The fingers of accusation should not be pointed at the countless machines that we have produced. After all, they do not intentionally cause us harm — their very existence is to serve — lifeless metallic corpses with mechanical hearts and plastic brains. Rather, the blame lies with us. We slumber soundly every night knowing that the gadgets we own have access of our most intimate information, knowing that companies such as Facebook and Google (the real-life Centillions) are actively harvesting our data for their own personal gain. As a result, humanity and technology have already, in a way, fused together to become one singular entity. What would be the point of attempting to work against the limitless advancement of technology, when it has already taken over and enslaved us all?
+The fingers of accusation should not be pointed at the countless machines that
+we have produced. After all, they do not intentionally cause us harm — their
+very existence is to serve — lifeless metallic corpses with mechanical hearts
+and plastic brains. Rather, the blame lies with us. We slumber soundly every
+night knowing that the gadgets we own have access of our most intimate
+information, knowing that companies such as Facebook and Google (the real-life
+Centillions) are actively harvesting our data for their own personal gain. As a
+result, humanity and technology have already, in a way, fused together to become
+one singular entity. What would be the point of attempting to work against the
+limitless advancement of technology, when it has already taken over and enslaved
+us all?
 
-Sure, there are some who are like Jenny. There are some who have realised the fatal error within human and mechanical process as one, and are trying to hack the unhackable system. They protest and voice out urgent cries of desperation, only to be met with snorting onlookers recording them and uploading it to the Internet, where they later become known as laughing stocks. They are labelled as insane, as bizarre, as paranoid, but are they in fact the only still-sane people around? The only people left with at least half a brain to think for themselves? The gadgets we call ours are in fact possessing us and herding us like sheep, dumbing us down and doing everything for us instead. It is already too late to try to veer away from our destined path. Instead, we should be focusing on making sure that we do not succumb fully to the brainwashing of the devices we cherish dearly.
+Sure, there are some who are like Jenny. There are some who have realised the
+fatal error within human and mechanical process as one, and are trying to hack
+the unhackable system. They protest and voice out urgent cries of desperation,
+only to be met with snorting onlookers recording them and uploading it to the
+Internet, where they later become known as laughing stocks. They are labelled as
+insane, as bizarre, as paranoid, but are they in fact the only still-sane people
+around? The only people left with at least half a brain to think for themselves?
+The gadgets we call ours are in fact possessing us and herding us like sheep,
+dumbing us down and doing everything for us instead. It is already too late to
+try to veer away from our destined path. Instead, we should be focusing on
+making sure that we do not succumb fully to the brainwashing of the devices we
+cherish dearly.
 
-Fortunately, there is a silver lining to our plight: technology has undeniably made the world a safer place, while also ironically making it far more dangerous as well. Countless sinister people have been apprehended and jailed, thanks to the overbearing surveillance of machinery. Without all of this progress, humanity would still be stuck where they were decades ago. Maybe this change, however much we despise it and try to halt it, is for the better. There will still be those who continue to rebel against the higher-ups and society, but it will be of no use. It may sound hopeless, but what would be the point of resisting? Give in, and carry on enjoying the blissfully ignorant ride that life takes you on.    
+Fortunately, there is a silver lining to our plight: technology has undeniably
+made the world a safer place, while also ironically making it far more dangerous
+as well. Countless sinister people have been apprehended and jailed, thanks to
+the overbearing surveillance of machinery. Without all of this progress,
+humanity would still be stuck where they were decades ago. Maybe this change,
+however much we despise it and try to halt it, is for the better. There will
+still be those who continue to rebel against the higher-ups and society, but it
+will be of no use. It may sound hopeless, but what would be the point of
+resisting? Give in, and carry on enjoying the blissfully ignorant ride that life
+takes you on.
 
 The world is but a machine, and we are all whirring cogs in its system.
