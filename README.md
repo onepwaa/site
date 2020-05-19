@@ -1,4 +1,4 @@
-## [WIP] OnePwaa Redesigned Website
+## OnePwaa Website
 
 <a href="https://www.netlify.com">
     <img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="Deploys by Netlify" />
