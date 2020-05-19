@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Tie Any Story into Any of the 6 Prompts - A Writing Guide
-image: /assets/img/writingcover.png
+image: /assets/img/HowToTieAnyStoryIntoAnyOfTheSixPrompts.jpg
 topic: strategy
 ---
 
