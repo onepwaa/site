@@ -1,0 +1,9 @@
+                      # <-- top-level document
+restylers:            # <-- restylers key
+  - jdt:  # <-- 0th element
+      include:
+        - "**/*.java"
+        - "**/*.css"
+        - "**/*.html"
+        - "**/*.json"
+        - "**/*.xml"
