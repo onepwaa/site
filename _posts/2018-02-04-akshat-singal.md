@@ -47,9 +47,9 @@ together.**
 I was always told since the time I started talking to others, I was too weird
 for any sane human to want to talk to me but the people I met at WSC made me
 realize that being normal was overrated anyways. Like Tetris taught us: “If you
-try to fit in, you’ll end up disappearing.”�
-**I will be forever thankful to this competition not for the accolades it has
-given me but rather for the endless memories and countless friends.**
+try to fit in, you’ll end up disappearing.”� **I will be forever thankful to
+this competition not for the accolades it has given me but rather for the
+endless memories and countless friends.**
 
 Thank you, for the wand I broke because I was too busy talking to someone, for
 the games of Cards Against Humanities with friends from BJ&H, for the mountain

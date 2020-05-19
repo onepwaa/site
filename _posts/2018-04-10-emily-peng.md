@@ -29,9 +29,8 @@ the world, burns brighter than whatever petty emotion I may be feeling.
 In April of 2017, I came home from my regional round with 11 medals, and
 friendships that would later change my life.
 
-WSC did not heal me of my scars.
-WSC did not force me to love myself.
-WSC did not mute the hateful voices inside my head.
+WSC did not heal me of my scars. WSC did not force me to love myself. WSC did
+not mute the hateful voices inside my head.
 
 Sadly, many of my scars remain intact. Yet, World Scholar’s Cup helped me see
 myself as someone who was capable, someone who was worthy, someone who was good
@@ -48,9 +47,8 @@ incredible group of people you’ll ever meet.
 
 To: Cici Zhou, Angel Quan, Bern Schroer, Sarah Jiang, the OnePwaa team, Victoria
 Sin, Suzu Kitamura, William Ting, Nadine Hilman, Van An Trinh, Joshua Chien,
-Cynthia Xu, Cheri Zhang and many many more,
-Thank you all for being such big parts of my first WSC season. I love you all
-very much!
+Cynthia Xu, Cheri Zhang and many many more, Thank you all for being such big
+parts of my first WSC season. I love you all very much!
 
 _Tell us your story - apply now by emailing
 [onepwaa@gmail.com](mailto:onepwaa@gmail.com)!_

@@ -47,34 +47,31 @@ was beaming. I had never before seen the face of a man so happy, so excited and
 so proud of something and I never have again. Even more memorable was Burch’s
 entire schtick. He really was at top form in this round, bringing energy and
 excitement to this diverse community of scholars all throughout the event.
-Everything about this round was nothing short of magical.
-​
-Nonetheless, something was missing; and it was the memory of standing in the
-middle of a crowded room full of people having fun together yet feeling lonelier
-and more isolated than ever that was the impetus to the realization that I
-wasn’t being true to myself. It was this realization that would later set me on
-a path to finding myself.
+Everything about this round was nothing short of magical. ​ Nonetheless,
+something was missing; and it was the memory of standing in the middle of a
+crowded room full of people having fun together yet feeling lonelier and more
+isolated than ever that was the impetus to the realization that I wasn’t being
+true to myself. It was this realization that would later set me on a path to
+finding myself.
 
 After graduating high school, I decided to prepare in advance for my third and
 final year of participation. Unlike my previous years, I went all out in
 studying the syllabus as soon as it was released, and after consulting some of
 my friends who are excellent debaters (namely Rodger Nyioh and Cyril Joachim,
 props to them), my team was equipped with something that I did not have
-before: strategy.
-​
-After several back-and-forths, I ended up with the same teammates as the
-previous Regional Round, and unlike in the previous round, we compiled our own
-notes with reference to other sources instead of straight-up reading from a
-single source, which proved to be very effective. Due to a plethora of other
-commitments, we ended up only having one practice round of debate, one day
-before the 2018 Penang Regional. In spite of this, we managed to get outstanding
-results. I was utterly shocked at the number of medals I had managed to receive.
-Ultimately, however, I have learned many valuable lessons from my experiences. I
-realized that it was, in fact, possible for me to learn something entirely new
-as long as I had the passion to endure the trials. I learned how to “properly”
-debate, and how to properly learn. The WSC reignited my passion for learning,
-and the skills I have gained will no doubt be of great help to me in my future
-endeavours.
+before: strategy. ​ After several back-and-forths, I ended up with the same
+teammates as the previous Regional Round, and unlike in the previous round, we
+compiled our own notes with reference to other sources instead of straight-up
+reading from a single source, which proved to be very effective. Due to a
+plethora of other commitments, we ended up only having one practice round of
+debate, one day before the 2018 Penang Regional. In spite of this, we managed to
+get outstanding results. I was utterly shocked at the number of medals I had
+managed to receive. Ultimately, however, I have learned many valuable lessons
+from my experiences. I realized that it was, in fact, possible for me to learn
+something entirely new as long as I had the passion to endure the trials. I
+learned how to “properly” debate, and how to properly learn. The WSC reignited
+my passion for learning, and the skills I have gained will no doubt be of great
+help to me in my future endeavours.
 
 _Tell us your story - apply now by emailing
 [onepwaa@gmail.com](mailto:onepwaa@gmail.com)!_

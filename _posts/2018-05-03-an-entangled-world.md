@@ -121,9 +121,8 @@ stardom.
 
 **Maxwell:** <br> The main takeaway here is the literary and structural methods
 in which the writer employed to create the overarching tone and effect of the
-piece.
-When writing about anything, it is crucial to swiftly set up boundaries. This
-often comes in the form of the opening paragraph; and inversely, the final
+piece. When writing about anything, it is crucial to swiftly set up boundaries.
+This often comes in the form of the opening paragraph; and inversely, the final
 paragraph should serve to provide the reader a satisfactory send-off, while
 possessing some linguistic or conceptual resemblance to the first. The writer
 does precisely that.
