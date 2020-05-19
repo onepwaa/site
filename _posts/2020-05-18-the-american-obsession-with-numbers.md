@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The American Obsession with Numbers | Savanah James
-image: /assets/img/alone-we-can-do-so-little.jpg
+image: /assets/img/TheAmericanObsessionWithNumbers.png
 topic: essay
 ---
 
