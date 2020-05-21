@@ -2,7 +2,7 @@
 layout: post
 title: 2020 Science | Study Guide
 image: /assets/img/ToEditAPlanet.png
-topic: study-guide
+topic: 
 ---
 
 ### 2020 Science | Study Guide
