@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Social Studies 2020 | Hypebeast Culture: A Look Into Gen Z’s Fashion Phenomenon"
-image: /assets/img/writingcover.png
+image: /assets/img/a-fashion-phenomenon.png
 topic: deep-dives
 ---
 
