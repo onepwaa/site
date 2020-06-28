@@ -13,7 +13,7 @@ This website uses Jekyll and is designed with Bootstrap.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Major contributors may be welcomed into the OnePwaa core web development team on a case by case basis.
 
-If you find a bug please report it using GitHub Issues. Non technical matters please contact us using [contact@onepwaa.org](mailto:contact@onepwaa.org). If you'd like more details about how the website works please contact Sam Poder using: [sam-poder@onepwaa.org](mailto:sam-poder@onepwaa.org).
+If you find a bug please report it using GitHub Issues. For non-technical matters, please contact us at [contact@onepwaa.org](mailto:contact@onepwaa.org). If you'd like more details about how the website works, please contact Sam Poder at [sam-poder@onepwaa.org](mailto:sam-poder@onepwaa.org).
 
 ## Contributors
 
