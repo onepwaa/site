@@ -25,4 +25,4 @@ This website's hosting is kindly sponsored by [Netlify](https://www.netlify.com/
 
 ## License
 
-All code is licensed under the [MIT license.](https://choosealicense.com/licenses/mit/). All written work is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/).
+All code is licensed under the [MIT license](https://choosealicense.com/licenses/mit/). All written work is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/).
