@@ -5,7 +5,7 @@ image: /assets/img/RussianDollofMistakes1.png
 topic: deep-dives
 ---
 
-### The Russian Doll of Mistakes: Dissecting the Concept of Mistakes
+### The Russian Doll of Mistakes: Dissecting the Concept of Mistakes (Part 1)
 
 There is no such thing as a perfect person - one that is incapable of making mistakes. Committing mistakes is like sneezing–you can try to avoid doing it, but you will not always be able to do so. Quite similarly, there are several positive and negative outcomes of a mistake. The Oxford Dictionary describes a mistake as *‘an act or judgment that is misguided or wrong’*; a blunder or a fault. This term shouldn’t be all that alien to you, seeing that you, as a human being, have and will make your fair share of mistakes in life. In this deep dive, we will discuss the *nature of mistakes, types of mistakes, and highlight the psychological and emotional effects* that mistakes have on individuals. ***We cannot avoid making mistakes, but we can very well decide who, and how we and the people we care about are affected by them.***
 
