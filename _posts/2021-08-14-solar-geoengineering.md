@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solar geoengineering and Who Has a Say in It
+title: Science 2021 | Solar Geoengineering and Who Has a Say in It
 image: /assets/img/(Final)%20GEOENGINEERING.png
 topic: deep-dives
 ---
@@ -46,11 +46,11 @@ Space sunshades: Exactly what it sounds like. Using giant mirrors placed in spac
 
 The most obvious first parameter would be how effective a certain practice is but as we dig deeper more criterias appear.
 
-**Reversibility: **refers to how permanent a geoengineering practice is. It is both a good thing and a bad thing. A reversible practice can be easy to undo in case unforeseen problems arise but it would also increase the risk of **termination effect**.
+**Reversibility:** refers to how permanent a geoengineering practice is. It is both a good thing and a bad thing. A reversible practice can be easy to undo in case unforeseen problems arise but it would also increase the risk of **termination effect**.
 
 The termination effect refers to the rapid warming of the globe after geoengineering is stopped. It may be due to disagreement, lack of funds or resources, terrorist activities or any other activity that may cause troubles in practising a certain geoengineering practice. 
 
-**Containment: **focuses on how much physical space would a practice affect or **encapsulates**: for example would it affect a city or a part of the sea or the whole planet?
+**Containment:** focuses on how much physical space would a practice affect or **encapsulates**: for example would it affect a city or a part of the sea or the whole planet?
 
 A more local measure can be used to solve specific problems like trying to save the great barrier reef but it would not be the best choice if we are looking for a global solution.  
 
@@ -60,11 +60,11 @@ Reversibility, containment, termination effect and encapsulations are one of the
 
 ### Topic 2: Ethical Concerns about Geoengineering:
 
-Geoengineering brings a whole lot of ethical concerns along with it which affect the way people think about it and in a way also influence decisions regarding it on non-scientific measures like** intent, meddling with nature, allocation of money **etc.
+Geoengineering brings a whole lot of ethical concerns along with it which affect the way people think about it and in a way also influence decisions regarding it on non-scientific measures like **intent, meddling with nature, allocation of money** etc.
 
-**Intent:** In the private sector, it's common for companies to be driven by what's more profitable as compared to what’s better. This has been proven with decades of **planned obsolescence **(deliberately making products that won't last to have better sales with people buying over and over) which does not look like something which will go away soon. With how dominant corporations are in the  world, it has become hard to imagine only governments being able to pull through it alone without private support. 
+**Intent:** In the private sector, it's common for companies to be driven by what's more profitable as compared to what’s better. This has been proven with decades of **planned obsolescence** (deliberately making products that won't last to have better sales with people buying over and over) which does not look like something which will go away soon. With how dominant corporations are in the  world, it has become hard to imagine only governments being able to pull through it alone without private support. 
 
-This brings the concern of intent of a company as at the end of day every business either has a long term business plan in mind or is doomed to fail as they run out of business. This causes a lack of scientific purity which raises a question. **Would it be safe to let an entity thinking about personal benefits influence something on which the future of humanity may rely? **
+This brings the concern of intent of a company as at the end of day every business either has a long term business plan in mind or is doomed to fail as they run out of business. This causes a lack of scientific purity which raises a question. **Would it be safe to let an entity thinking about personal benefits influence something on which the future of humanity may rely?**
 
 **Meddling with nature:** The modern day problems like increase in carbon levels, food shortage, loss of animal habitat etc is partially said to have been **caused by humans meddling with nature**. Often doing so is not best practice, may it come to animals ( natural habitats are better than zoos) or the human body (doctors try to avoid invasive treatments if possible) and the same is applicable to a lot of other things. 
 
