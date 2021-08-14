@@ -7,7 +7,7 @@ topic: deep-dives
 
 ### Solar geoengineering and Who Has a Say in It
 
-It is no secret that the planet at the current rate of environmental degradation is doomed unless we do something about it. The **sea-level rise** is resulting in the flooding of many coastal areas; there is a pattern of a sharp **increase in forest fires **over the years; **carbon-dioxide levels** have gone over 400 parts per million, a number which was only around 280 in the pre-industrial and you get the idea seeing the tip of this iceberg. 
+It is no secret that the planet at the current rate of environmental degradation is doomed unless we do something about it. The **sea-level rise** is resulting in the flooding of many coastal areas; there is a pattern of a sharp **increase in forest fires** over the years; **carbon-dioxide levels** have gone over 400 parts per million, a number which was only around 280 in the pre-industrial and you get the idea seeing the tip of this iceberg. 
 ![](https://lh4.googleusercontent.com/G7LbLc4wkK7h-NpV7tsQMl7N_bbFR8FTwNqzPahS0Q7h7mA_DiYlFookSWVzPrkaP3cbZv0jt7DWDdoiaHPXSB1-i4RXCtzpALM8hbJ4IlVZZOPoWc5eGh_JWtCqLLVGRBYyUDSk)
 
 In the long term, this has led to an increase in the global average temperature. Currently, we are up by 1.16°C from the 20th-century numbers. Experts say that we need to aim at keeping this number between 1.5 and 2 degrees in the worst-case scenario if we want to survive. There is also a general consensus between climate experts that **decarbonisation won't suffice** to meet the aim and some other intervention is required. 
