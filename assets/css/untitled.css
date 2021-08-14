@@ -2,6 +2,10 @@
   text-transform: none !important;
 }
 
+img{
+  max-width: 100%
+}
+
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
   color: #fff!important;
   background-color: transparent;
