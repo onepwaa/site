@@ -19,4 +19,4 @@ Many key things set WSC apart from most academic competitions. Most competitions
 
 As I write this in a midst of a coup and pandemic (cries), I only wish I could experience it all again one last time before I graduate, but chances of that happening are diminishing every second, so the only thing I can say is that whether you're here for the trophies or the alpacas or your college transcript, enjoy your WSC experience to the fullest.
 
-**Tell us your story - apply now by emailing [contact@onepwaa.org](mailto:contact@onepwaa.org)!*
+*Tell us your story - apply now by emailing [contact@onepwaa.org](mailto:contact@onepwaa.org)!*
