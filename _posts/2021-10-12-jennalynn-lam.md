@@ -23,4 +23,4 @@ As waves of nostalgia crash while writing this in college, I just want to say a 
 
 Thanks for the memories, thanks for everything and thanks for making me who I am today. Love y’all, peace out. <3
 
-**Tell us your story - apply now by emailing [contact@onepwaa.org](mailto:contact@onepwaa.org)!*
+*Tell us your story - apply now by emailing [contact@onepwaa.org](mailto:contact@onepwaa.org)!*
