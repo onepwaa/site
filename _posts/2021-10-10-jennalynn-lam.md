@@ -7,7 +7,7 @@ topic: humans-of-wsc
 
 ### HoWSC 17 | Jennalynn Lam
 
-“Your friends are winning in competitions around the world, but why not you ?” My homeroom teacher said this to me on the first day of senior high. At that moment, I felt embarrassment and anger. I wanted to prove him wrong, I wanted to show him that I could be a winner as well. 
+“Your friends are winning in competitions around the world, but why not you?” My homeroom teacher said this to me on the first day of senior high. At that moment, I felt embarrassment and anger. I wanted to prove him wrong, I wanted to show him that I could be a winner as well. 
 
 And so I joined WSC.
 
@@ -15,7 +15,7 @@ And so I joined WSC.
 
 WSC instilled a passion for learning in me. One moment I was researching epidemics and neuroscience, and next thing you know, I’m running around the school corridor rapping to the lyrics of Alexander Hamilton (which foreshadowed my current pursuit in musical theatre). The program exposed me to so many subject areas and topics that weren’t taught in school. Eventually, I just felt the need to know about things, not just memorizing textbooks, I wanted to learn more. 
 
-Through this program, I was not only studying, but forming friendships with scholars from all across the world (that I still keep in contact with till this day). No round is the same, and there’s no experience deemed “too crazy”.  Some of the memorable moments I had includes hugging trees in Hanoi, high fiving five guys in Five Guys, my first interaction with snow and Painted Warrior in ToC, and having frozen pizza in the middle of a Havana vigil, and so much more. It was all about being in the moment and in that moment, it was genuine happiness spreaded throughout this community .
+Through this program, I was not only studying, but forming friendships with scholars from all across the world (that I still keep in contact with till this day). No round is the same, and there’s no experience deemed “too crazy”.  Some of the memorable moments I had includes hugging trees in Hanoi, high fiving five guys in Five Guys, my first interaction with snow and Painted Warrior in ToC, and having frozen pizza in the middle of a Havana vigil, and so much more. It was all about being in the moment and in that moment, it was genuine happiness spread throughout this community.
 
 After being a scholar, I volunteered in local rounds to give the same experience I had back to the community. I still smile while remembering how new scholars gleam at the sight of multicolored alpacas, and seasoned scholars grimacing at the first chord of Havana. I see my past self in them, and it gives me joy knowing that the community will keep on growing, and how we all belong in this alpaca-loving family together. 
 
