@@ -345,6 +345,14 @@ a, a:hover {
   margin-bottom: 0;
 }
 
+.dark-text {
+  color: #343a40!important
+}
 
+.pl-10{
+  padding-left: 10px
+}
 
-
+.pt-10{
+  padding-top: 10px
+}
