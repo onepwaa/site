@@ -1,5 +1,0 @@
-enabled: true
-pull_requests: true
-comments: true
-restylers:
-  - "*"

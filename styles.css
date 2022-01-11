@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.bg-theme-red{
+  background: #E83D3D;
+}
+
+.bg-theme-green{
+  background: #0EB5A1;
+}
+
+.bg-theme-peach{
+  background: #EC5A3A;
+}
+
+.bg-theme-purple{
+  background: #B815DF
+}
+
+.bg-theme-blue{
+  background: #4169E1;
+}
+
+.chevorn{
+  opacity: 0;
+  transform: translateX(-100vw);
+  transition: 0.5s ease-in-out;
+}
+
+.chevorn-show > .chevorn{
+  opacity: 0.7;
+  transform: translateY(0);
+}
+
+.close{
+  transform: rotate(45deg);
+  line-height: 1.5rem;
+}
+
+#menu{
+  transition: 0.2s ease-in-out;
+}
+
+@layer components {
+  .home-heading-text {
+    @apply text-6xl font-bold text-white uppercase;
+  }
+  .section {
+    @apply py-8 px-4 flex-grow flex items-center cursor-pointer;
+  }
+  .section:hover {
+    @apply chevorn-show;
+  }
+}
+
+@layer components {
+  .section:hover {
+    @apply chevorn-show;
+  }
+}
