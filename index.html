@@ -4,123 +4,119 @@ title: Home
 ---
 
 <head>
-
-
-<meta property="og:type" content="website">
-<meta property="og:image" content="https://www.onepwaa.netlify.com/assets/img/88225255_10111594243599681_3889394766894333952_o.jpg">
-<link rel=“canonical” href=“https://onepwaa.netlify.com” />
-<meta name="twitter:image" content="/assets/img/88225255_10111594243599681_3889394766894333952_o.jpg">
-<meta name="twitter:description" content="OnePwaa is a nonprofit organisation ensuring that the World Scholar's Cup community has access to resources and services that benefit individuals within the community.">
-<meta name="description" content="OnePwaa is a nonprofit organisation ensuring that the World Scholar's Cup community has access to resources and services that benefit individuals within the community.">
-<meta name="twitter:title" content="OnePwaa | Accessible WSC Resources &amp; Services">
-<meta name="twitter:card" content="summary_large_image">
-
-<title>OnePwaa | Accessible WSC Resources & Services</title>
-
-{% include head.html %}
-
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:image"
+    content="https://www.onepwaa.netlify.com/assets/img/88225255_10111594243599681_3889394766894333952_o.jpg"
+  />
+  <link rel=“canonical” href=“https://onepwaa.netlify.com” />
+  <meta
+    name="twitter:image"
+    content="/assets/img/88225255_10111594243599681_3889394766894333952_o.jpg"
+  />
+  <meta
+    name="twitter:description"
+    content="OnePwaa is a nonprofit organisation ensuring that the World Scholar's Cup community has access to resources and services that benefit individuals within the community."
+  />
+  <meta
+    name="description"
+    content="OnePwaa is a nonprofit organisation ensuring that the World Scholar's Cup community has access to resources and services that benefit individuals within the community."
+  />
+  <meta
+    name="twitter:title"
+    content="OnePwaa | Accessible WSC Resources &amp; Services"
+  />
+  <meta name="twitter:card" content="summary_large_image" />
+  <title>OnePwaa | Accessible WSC Resources & Services</title>
+  {% include head.html %}
 </head>
 
 {% include standard-navbar.html %}
 
-<header class="masthead text-center text-white d-flex" style="background-image:url('assets/img/571806148.jpg');">
-    <div class="container my-auto" style="margin-top: 100px !important;">
-        <div class="row">
-            <div class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start" style="margin-left: 0px !important;"><h1 class="text-uppercase" id ="this-is" style="font-family: Montserrat, sans-serif; text-align: left; font-size: 10vh">
-
-<style>@media only screen and (max-width: 700px) {
-#this-is {
-font-size: 8vh!important
-}
-}
-</style>
-
-this is <br><strong> OnePwaa</strong> 
-
-
-</div>
-        </div>
-            
-        <div class="row">
-            
-            <div class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start" style="margin-left: 5px !important;">
-                
-                <h4 class="text-uppercase" style="font-family: Montserrat, sans-serif; text-align: left; font-size: 20px"> The sound many happy alpacas make together. <br> Your resource for all things WSC. </h4>
-
-                <hr>
-                
-            </div>
-        </div>
+<header
+  class="masthead text-center text-white d-flex"
+  style="background-image: url('assets/img/571806148.jpg')"
+>
+  <div class="container my-auto" style="margin-top: 100px !important">
+    <div class="row">
+      <div
+        class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start"
+        style="margin-left: 0px !important"
+      >
+        <h1
+          class="text-uppercase"
+          id="this-is"
+          style="
+            font-family: Montserrat, sans-serif;
+            text-align: left;
+            font-size: 10vh;
+          "
+        >
+          this is <br /><strong> OnePwaa</strong>
+        </h1>
+      </div>
     </div>
+    <div class="row">
+      <div
+        class="col-lg-10 d-xl-flex mx-auto justify-content-xl-start"
+        style="margin-left: 5px !important"
+      >
+        <h4
+          class="text-uppercase"
+          style="
+            font-family: Montserrat, sans-serif;
+            text-align: left;
+            font-size: 20px;
+          "
+        >
+          The sound many happy alpacas make together. <br />
+          Your resource for all things WSC.
+        </h4>
+        <hr />
+      </div>
+    </div>
+  </div>
 </header>
-    
-    <section class="text-dark bg-white" id="about" style="padding: 64px 0px;">
-    
-    <h2 style="text-align: center; font-weight: bold">OnePwaa Writing Webinar</h2>
-    <hr class="dark my-4" style="margin-bottom: 50px !important;color: rgb(0,0,0);">
-    <div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4" style = "margin-left: auto">
-                    <p>We’re excited to invite you to our first event of the year! 
-                       We’ll be holding a Debate Webinar to introduce you to different debating formats, along with tactics to excel in debate. 
-                       This event will be taught by Sam Poder, who ranked top 10 debaters in the 2019 Global Rounds, and Manas Kapur, who has ranked highly in multiple international debate competitions, including top 3 debaters in Regional Rounds.
-                       Click <b><a href = "https://pwaachive.onepwaa.org">here</a></b> to view the recording!
-                </div>
-                <div class="col-md-4" style = "margin-right: auto"><img src="/assets/img/debate-webinar-poster.png" style="width: 100%;" /></div>
-            </div>
-        </div>
+
+<div class="container" style="margin-top: 30px">
+  <h2 class="text-dark section-heading" style="text-align: center">Featured</h2>
+  <hr
+    class="dark my-4"
+    style="margin-bottom: 50px !important; color: rgb(0, 0, 0)"
+  />
+  <div class="row no-gutters">
+    {% for post in site.posts %} {% if forloop.index <= 3 %}
+    <div
+      class="col-sm-6 col-lg-4"
+      style="padding-bottom: 10px; padding-top: 10px"
+    >
+      <a href="{{ post.url }}">
+        <img class="img-fluid" src="{{ post.image }}" />
+        <center>
+          <div class="project-name" style="padding-top: 10px">
+            <span style="color: #343a40 !important">
+              <strong>{{ post.title }}</strong>
+            </span>
+          </div>
+        </center>
+      </a>
     </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
 
-    </section>
-     
-    <div class="container" style="margin-top: 30px;">
-        
-        <h2 class="text-dark section-heading" style = "text-align: center;">Featured</h2>
-        
-        <hr class="dark my-4" style="margin-bottom: 50px !important;color: rgb(0,0,0);">
-        
-        <div class="row no-gutters">
-            
-            {% for post in site.posts %}
+<section
+  class="text-dark bg-white"
+  id="about"
+  style="padding: 32px 0px"
+></section>
 
-            {% if forloop.index <= 3 %}
-                                   
-            <div class="col-sm-6 col-lg-4" style="padding-bottom: 10px;padding-top: 10px;">
-
-                <a href="{{ post.url }}" >
-                    
-                    <img class="img-fluid" src="{{ post.image }}">
-
-                    <center>
-
-                        <div class="project-name" style = "padding-top: 10px;">
-
-                            <span style = "color: #343a40 !important"><strong>{{ post.title }}</strong></span>
-
-                        </div>
-
-                    </center>
-                    
-                </a>
-                
-                
-
-            </div>
-
-            
-
-            {% endif %}
-            {% endfor %}
-            
-        
-        </div>
-        
-    </div>
-        
-    </div>
-
-<section class="text-dark bg-white" id="about" style="padding: 32px 0px;">
-</section>
+<style>
+  @media only screen and (max-width: 700px) {
+    #this-is {
+      font-size: 8vh !important;
+    }
+  }
+</style>
 
 {% include footer.html %}
