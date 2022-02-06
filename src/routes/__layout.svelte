@@ -9,6 +9,7 @@
 
 <script>
 	import PageTransition from '../components/PageTransition.svelte';
+	import "../app.css";
 	export let key;
 </script>
 
