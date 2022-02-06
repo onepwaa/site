@@ -1,14 +1,13 @@
-import preprocess from 'svelte-preprocess';
-import vercel from '@sveltejs/adapter-vercel';
+import adapter from '@sveltejs/adapter-static';
 
-/** @type {import('@sveltejs/kit').Config} */
-const config = {
-	preprocess: preprocess(),
-
+export default {
 	kit: {
-		adapter: vercel(),
-		target: '#svelte'
+		adapter: adapter({
+			// default options are shown
+			pages: 'build',
+			assets: 'build',
+			fallback: null,
+			precompress: false
+		})
 	}
 };
-
-export default config;
